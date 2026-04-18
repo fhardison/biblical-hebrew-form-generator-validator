@@ -1,0 +1,50 @@
+!
+! 06_final_forms.xfst - Final Form Letters
+! Word-final allomorph substitution
+!
+! References: Joüon-Muraoka §5, GKC §8
+!
+
+!
+! ============================================================
+! FINAL LETTER SUBSTITUTIONS
+! ============================================================
+!
+! כ final (k) - ך
+define Kaf_Final
+  k -> x || _ # .
+  
+! מ final (m) - ם
+define Mem_Final
+  m -> m || _ # .
+  
+! נ final (n) - ן
+define Nun_Final
+  n -> n || _ # .
+  
+! פ final (p) - ף
+define Pe_Final
+  p -> p || _ # .
+  
+! צ final (c) - ץ
+define Tsade_Final
+  c -> c || _ # .
+
+!
+! ============================================================
+! COMPOSE FINAL FORM RULES
+! ============================================================
+
+define FinalFormRules
+  Kaf_Final
+  .o.
+  Mem_Final
+  .o.
+  Nun_Final
+  .o.
+  Pe_Final
+  .o.
+  Tsade_Final
+;
+
+regex FinalFormRules;

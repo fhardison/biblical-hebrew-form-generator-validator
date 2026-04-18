@@ -1,0 +1,197 @@
+!
+! nouns.lexc - Noun Declension Lexicon
+! Contains noun patterns by declension class
+!
+
+!
+! ============================================================
+! MASCULINE NOUN PATTERNS
+! ============================================================
+
+! qatal/qetol pattern - regular masculine
+LEXICON QATAL-M
+
+%<sg%>%<abs%>:qatal    NFIN ;
+%<sg%>%<cstr%>:qetal   NFIN ;
+%<pl%>%<abs%>:qatil    NFIN ;
+%<pl%>%<cstr%>:qatile  NFIN ;
+
+! qatul pattern
+LEXICON QATUL-M
+
+%<sg%>%<abs%>:qatul    NFIN ;
+%<sg%>%<cstr%>:qtul    NFIN ;
+%<pl%>%<abs%>:qtalim   NFIN ;
+%<pl%>%<cstr%>:qtale  NFIN ;
+
+
+!
+! ============================================================
+! FEMININE NOUN PATTERNS
+! ============================================================
+
+! Feminine in -āh (-ת suffix)
+LEXICON FEM-AH
+
+%<sg%>%<abs%>:ah      NFIN ;
+%<sg%>%<cstr%>:at     NFIN ;
+%<pl%>%<abs%>:ot     NFIN ;
+%<pl%>%<cstr%>:ot     NFIN ;
+
+! Feminine in -t
+LEXICON FEM-T
+
+%<sg%>%<abs%>:t       NFIN ;
+%<sg%>%<cstr%>:t      NFIN ;
+%<pl%>%<abs%>:ot     NFIN ;
+%<pl%>%<cstr%>:ot     NFIN ;
+
+
+!
+! ============================================================
+! SEGHOLATE NOUNS (C_eC pattern)
+! ============================================================
+
+LEXICON SEGHOLATE
+
+%<sg%>%<abs%>:CeC     NFIN ;
+%<sg%>%<cstr%>:CeC    NFIN ;
+%<pl%>%<abs%>:CeCim   NFIN ;
+%<pl%>%<cstr%>:CeCe   NFIN ;
+
+
+!
+! ============================================================
+! IRREGULAR NOUNS
+! ============================================================
+
+! אב father
+אָב:3b      [I=AB]   QATAL-M ;
+
+! אח brother  
+אָח:3h      [I=AH]   QATAL-M ;
+
+! בן son
+בֵּן:bn      [I=BEN]  QATAL-M ;
+
+! בית house
+בַּיִת:byt      [I=BET]  QATAL-M ;
+
+! אָדָם man
+אָדָם:3dm     [I=ADAM] QATAL-M ;
+
+! אֱלֹהִים God (plural only)
+אֱלֹהִים:3lohim  [I=ELOAHIM] PLURAL ;
+
+! שָׁמַיִם heavens (plural only)
+שָׁמַיִם:šmayim [I=ŠAMAYIM] PLURAL ;
+
+
+!
+! ============================================================
+! NOUN COMPLEMENTS
+! ============================================================
+
+LEXICON NFIN
+
+! Null ending for absolute
+# ;
+
+LEXICON PLURAL
+
+%<pl%>%<abs%>:im     # ;
+%<pl%>%<cstr%>:e     # ;
+
+
+!
+! ============================================================
+! CONSTRUCT CHAIN (noun + noun compounds)
+! ============================================================
+
+LEXICON CONSTRUCT
+
+! Construct state - noun is in genitive relationship
+%<cstr%>:e        # ;
+
+
+!
+! ============================================================
+! PRONOMINAL SUFFIX ATTACHMENT
+! ============================================================
+
+LEXICON N-POSS
+
+! Possessive suffixes attach here
+# ;
+
+
+!
+! ============================================================
+! GENTILIC PATTERNS
+! ============================================================
+
+LEXICON GENTILE
+
+! Gentilic suffix -ī (י的一面)
+%<sg%>%<abs%>:i       NFIN ;
+%<sg%>%<cstr%>:i      NFIN ;
+%<pl%>%<abs%>:im     NFIN ;
+%<pl%>%<cstr%>:e     NFIN ;
+
+
+!
+! ============================================================
+! PROPER NOUNS
+! ============================================================
+
+LEXICON PROPER
+
+! Proper nouns follow regular patterns
+# ;
+
+
+!
+! ============================================================
+! DUAL NOUNS (rare in BH)
+! ============================================================
+
+LEXICON DUAL
+
+! Dual endings -āyim (אַיִם)
+%<du%>%<abs%>:ayim    # ;
+%<du%>%<cstr%>:e      # ;
+
+
+!
+! ============================================================
+! ABSTRACT NOUNS (maqtal pattern)
+! ============================================================
+
+LEXICON MAQTAL
+
+%<sg%>%<abs%>:maqtal  NFIN ;
+%<sg%>%<cstr%>:maqtel NFIN ;
+
+
+!
+! ============================================================
+! INFINITIVE CONSTRUCTS AS NOUNS
+! ============================================================
+
+LEXICON INF-NOUN
+
+! Infinitive construct can function as noun
+# ;
+
+
+!
+! ============================================================
+! PARTITIVE NOUNS
+! ============================================================
+
+LEXICON PARTITIVE
+
+%<sg%>%<abs%>:CeCa     NFIN ;
+%<sg%>%<cstr%>:CeC     NFIN ;
+%<pl%>%<abs%>:CeCim    NFIN ;
+%<pl%>%<cstr%>:CeCe   NFIN ;

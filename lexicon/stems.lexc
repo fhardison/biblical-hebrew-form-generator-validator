@@ -1,0 +1,309 @@
+!
+! stems.lexc - Stem Templates
+! Contains vowel-pattern skeletons for each binyan × conjugation
+!
+
+MULTICHAR-SYMBOLS
++I
++II
++III
++V1
++V2
++V3
+%<perf%>
+%<impf%>
+%<impv%>
+%<inf-c%>
+%<inf-a%>
+%<ptcp%>
+%<qatal%>
+%<yiqtol%>
+%<way%>
+%<weq%>
+%<juss%>
+%<coh%>
+
+!
+! Pattern representation: C = consonant, V = vowel, # = root position
+! The root is intercalated between the pattern letters
+!
+
+! ============================================================
+! QAL STEM TEMPLATES
+! ============================================================
+
+LEXICON qal
+
+! Qal Perfect - qatal pattern: C_a_C_aC or C_oC
+! Strong verb pattern: qatal
+%<perf%>%.3ms:CaC        SUF ;
+%<perf%>%.3fs:CaC        SUF ;
+%<perf%>%.2ms:CaC        SUF ;
+%<perf%>%.2fs:CaC        SUF ;
+%<perf%>%.1cs:CaC        SUF ;
+%<perf%>%.3mp:CaC        SUF ;
+%<perf%>%.2mp:CaC        SUF ;
+%<perf%>%.1cp:CvC        SUF ;
+
+! Qal Imperfect - yiqtol pattern
+%<impf%>%.3ms:yiCoC        PREF ;
+%<impf%>%.3fs:yiCC      PREF ;
+%<impf%>%.2ms:tiCoC     PREF ;
+%<impf%>%.2fs:tiCC      PREF ;
+%<impf%>%.1cs:3CoC       PREF ;
+%<impf%>%.1cp:nCoC       PREF ;
+%<impf%>%.3mp:yCoC       PREF ;
+%<impf%>%.2mp:tiCC      PREF ;
+
+! Qal Imperative
+%<impv%>%.2ms:CoC        IMP_SUF ;
+%<impv%>%.2fs:CoC        IMP_SUF ;
+%<impv%>%.2mp:CvC       IMP_SUF ;
+%<impv%>%.2fp:CoC       IMP_SUF ;
+
+! Qal Infinitive Construct
+%<inf-c%>:lCoC      INF_SUF ;
+
+! Qal Infinitive Absolute  
+%<inf-a%>:CoC       INF_ABS ;
+
+! Qal Active Participle
+%<ptcp%>%.ms:CoC        PTCP ;
+%<ptcp%>%.fs:Cat       PTCP ;
+%<ptcp%>%.mp:Cim       PTCP ;
+%<ptcp%>%.fp:Cot       PTCP ;
+
+! Qal Passive Participle (rare - usually niphal)
+%<perf%>%.ms:CvC      PAS_PTCP ;
+
+! ============================================================
+! NIPHAL STEM TEMPLATES  
+! ============================================================
+
+LEXICON niphal
+
+! Niphal Perfect
+%<perf%>%.3ms:niCCa     SUF ;
+%<perf%>%.3fs:niCCa     SUF ;
+%<perf%>%.2ms:niCCa     SUF ;
+%<perf%>%.2fs:niCCa     SUF ;
+%<perf%>%.1cs:niCCa     SUF ;
+%<perf%>%.3mp:niCCv     SUF ;
+%<perf%>%.2mp:niCCv     SUF ;
+%<perf%>%.1cp:niCCv     SUF ;
+
+! Niphal Imperfect
+%<impf%>%.3ms:yEinCoC   PREF ;
+%<impf%>%.3fs:yEinCC    PREF ;
+%<impf%>%.2ms:tEinCoC  PREF ;
+%<impf%>%.2fs:tEinCC   PREF ;
+%<impf%>%.1cs:3EinCoC  PREF ;
+%<impf%>%.1cp:nEinCoC  PREF ;
+%<impf%>%.3mp:yEinCoC  PREF ;
+%<impf%>%.2mp:tEinCC   PREF ;
+
+! Niphal Imperative
+%<impv%>%.2ms:EinCoC   IMP_SUF ;
+%<impv%>%.2fs:EinCC    IMP_SUF ;
+%<impv%>%.2mp:EinCoC  IMP_SUF ;
+%<impv%>%.2fp:EinCC    IMP_SUF ;
+
+! Niphal Infinitive Construct
+%<inf-c%>:liEnCC     INF_SUF ;
+
+! Niphal Infinitive Absolute
+%<inf-a%>:niEanCC    INF_ABS ;
+
+! Niphal Active Participle
+%<ptcp%>%.ms:nEit      PTCP ;
+%<ptcp%>%.fs:nEit      PTCP ;
+%<ptcp%>%.mp:nEit      PTCP ;
+%<ptcp%>%.fp:nEit      PTCP ;
+
+! ============================================================
+! PIEL STEM TEMPLATES
+! ============================================================
+
+LEXICON piel
+
+! Piel Perfect - geminated
+%<perf%>%.3ms:CiCCa     SUF ;
+%<perf%>%.3fs:CiCCa     SUF ;
+%<perf%>%.2ms:CiCCa     SUF ;
+%<perf%>%.2fs:CiCCa     SUF ;
+%<perf%>%.1cs:CiCCa     SUF ;
+%<perf%>%.3mp:CiCCv     SUF ;
+%<perf%>%.2mp:CiCCv     SUF ;
+%<perf%>%.1cp:CiCCv     SUF ;
+
+! Piel Imperfect
+%<impf%>%.3ms:yCaCCeC   PREF ;
+%<impf%>%.3fs:yCaCC     PREF ;
+%<impf%>%.2ms:tCaCCeC   PREF ;
+%<impf%>%.2fs:tCaCC     PREF ;
+%<impf%>%.1cs:3CaCCeC   PREF ;
+%<impf%>%.1cp:nCaCCeC   PREF ;
+%<impf%>%.3mp:yCaCCeC   PREF ;
+%<impf%>%.2mp:tCaCC     PREF ;
+
+! Piel Imperative
+%<impv%>%.2ms:CaCCeC    IMP_SUF ;
+%<impv%>%.2fs:CaCC     IMP_SUF ;
+%<impv%>%.2mp:CvCCeC    IMP_SUF ;
+%<impv%>%.2fp:CaCC     IMP_SUF ;
+
+! Piel Infinitive Construct  
+%<inf-c%>:lCaCCel    INF_SUF ;
+
+! Piel Infinitive Absolute
+%<inf-a%>:CaCCel    INF_ABS ;
+
+! Piel Active Participle
+%<ptcp%>%.ms:mCoCCel    PTCP ;
+%<ptcp%>%.fs:mCaCCat   PTCP ;
+%<ptcp%>%.mp:mCoCCim   PTCP ;
+%<ptcp%>%.fp:mCoCCot   PTCP ;
+
+! ============================================================
+! PUAL STEM TEMPLATES
+! ============================================================
+
+LEXICON pual
+
+! Pual Perfect - geminated passive
+%<perf%>%.3ms:CuCCa     SUF ;
+%<perf%>%.3fs:CuCCa     SUF ;
+%<perf%>%.2ms:CuCCa     SUF ;
+%<perf%>%.2fs:CuCCa     SUF ;
+%<perf%>%.1cs:CuCCa     SUF ;
+%<perf%>%.3mp:CuCCv     SUF ;
+%<perf%>%.2mp:CuCCv     SUF ;
+%<perf%>%.1cp:CuCCv     SUF ;
+
+! Pual Imperfect (rare)
+%<impf%>%.3ms:yCuCCeC   PREF ;
+
+! ============================================================
+! HIPHIL STEM TEMPLATES
+! ============================================================
+
+LEXICON hiphil
+
+! Hiphil Perfect - ה prefix
+%<perf%>%.3ms:hiCCa     SUF ;
+%<perf%>%.3fs:hiCCa     SUF ;
+%<perf%>%.2ms:hiCCa     SUF ;
+%<perf%>%.2fs:hiCCa     SUF ;
+%<perf%>%.1cs:hiCCa     SUF ;
+%<perf%>%.3mp:hiCCv     SUF ;
+%<perf%>%.2mp:hiCCv     SUF ;
+%<perf%>%.1cp:hiCCv     SUF ;
+
+! Hiphil Imperfect
+%<impf%>%.3ms:yhaCCeC   PREF ;
+%<impf%>%.3fs:yhiCC     PREF ;
+%<impf%>%.2ms:thaCCeC   PREF ;
+%<impf%>%.2fs:thiCC    PREF ;
+%<impf%>%.1cs:3haCCeC   PREF ;
+%<impf%>%.1cp:nhaCCeC   PREF ;
+%<impf%>%.3mp:yhaCCeC   PREF ;
+%<impf%>%.2mp:thiCC    PREF ;
+
+! Hiphil Imperative
+%<impv%>%.2ms:haCCeC    IMP_SUF ;
+%<impv%>%.2fs:hiCC     IMP_SUF ;
+%<impv%>%.2mp:hvCCeC   IMP_SUF ;
+%<impv%>%.2fp:hiCC     IMP_SUF ;
+
+! Hiphil Infinitive Construct
+%<inf-c%>:lhACCl    INF_SUF ;
+
+! Hiphil Infinitive Absolute
+%<inf-a%>:haCCel    INF_ABS ;
+
+! Hiphil Active Participle  
+%<ptcp%>%.ms:mCoaC     PTCP ;
+%<ptcp%>%.fs:mCat      PTCP ;
+%<ptcp%>%.mp:mCoam     PTCP ;
+%<ptcp%>%.fp:mCoat     PTCP ;
+
+! ============================================================
+! HOPHAL STEM TEMPLATES
+! ============================================================
+
+LEXICON hophal
+
+! Hophal Perfect - הוּ prefix
+%<perf%>%.3ms:huCCa     SUF ;
+%<perf%>%.3fs:huCCa     SUF ;
+%<perf%>%.2ms:huCCa     SUF ;
+%<perf%>%.2fs:huCCa     SUF ;
+%<perf%>%.1cs:huCCa     SUF ;
+%<perf%>%.3mp:huCCv     SUF ;
+%<perf%>%.2mp:huCCv     SUF ;
+%<perf%>%.1cp:huCCv     SUF ;
+
+! ============================================================
+! HITHPAEL STEM TEMPLATES
+! ============================================================
+
+LEXICON hithpael
+
+! Hithpael Perfect - הת prefix + dagesh
+%<perf%>%.3ms:hitCaCCa   SUF ;
+%<perf%>%.3fs:hitCaCCa   SUF ;
+%<perf%>%.2ms:hitCaCCa   SUF ;
+%<perf%>%.2fs:hitCaCCa   SUF ;
+%<perf%>%.1cs:hitCaCCa   SUF ;
+%<perf%>%.3mp:hitCaCCv   SUF ;
+%<perf%>%.2mp:hitCaCCv   SUF ;
+%<perf%>%.1cp:hitCaCCv   SUF ;
+
+! Hithpael Imperfect
+%<impf%>%.3ms:yitCaCCeC  PREF ;
+%<impf%>%.3fs:yithCC    PREF ;
+%<impf%>%.2ms:titCaCCeC  PREF ;
+%<impf%>%.2fs:tithCC    PREF ;
+%<impf%>%.1cs:3itCaCCeC  PREF ;
+%<impf%>%.1cp:nitTaCCeC  PREF ;
+
+! Hithpael Imperative
+%<impv%>%.2ms:hitCaCCeC  IMP_SUF ;
+%<impv%>%.2fs:hitCC    IMP_SUF ;
+%<impv%>%.2mp:hitcvCCeC IMP_SUF ;
+%<impv%>%.2fp:hitCC    IMP_SUF ;
+
+! Hithpael Infinitive Construct
+%<inf-c%>:lhitTaCCel INF_SUF ;
+
+! Hithpael Active Participle
+%<ptcp%>%.ms:mitCaCCel PTCP ;
+%<ptcp%>%.fs:mitCat   PTCP ;
+
+! ============================================================
+! SUFFIX SLOTS FOR AGREEMENT
+! ============================================================
+
+LEXICON SUF
+! Perfect suffixes attach here
+# ;
+
+LEXICON PREF
+! Imperfect prefixes come before these
+# ;
+
+LEXICON IMP_SUF
+! Imperative suffixes
+# ;
+
+LEXICON INF_SUF
+! Infinitive construct suffixes
+# ;
+
+LEXICON INF_ABS
+! Infinitive absolute - no suffixes
+# ;
+
+LEXICON PTCP
+! Participle endings
+# ;

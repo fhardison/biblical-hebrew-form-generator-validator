@@ -1,0 +1,86 @@
+!
+! 07_shewa.xfst - Shewa Rules
+! Rule of shewa and related phenomena
+!
+! References: Joüon-Muraoka §10, GKC §11
+!
+
+!
+! ============================================================
+! RULE OF SHEWA
+! Two vocal shewas cannot stand adjacent
+! First becomes chireq (hiriq)
+! ============================================================
+
+define Shewa_Chireq
+  0:i || Shewa _ Shewa .
+  0:i || [ i | e ] _ .
+
+!
+! Shewa after shureq/holam
+! ========================
+
+define Shewa_After_Long_Vowel
+  0:0 || [ o: | u: | i: ] _ Shewa .
+
+!
+! ============================================================
+! SHEWA IN COMPOUND (Maqqef)
+! After maqqef, first vowel reduces
+! ============================================================
+
+define Maqqef_Shewa
+  Vowel -> 0 || [ = | - ] _ .
+
+!
+! ============================================================
+! NO SHEWA AT WORD END
+! Final shewa is silent
+! ============================================================
+
+define No_Final_Shewa
+  0 -> 0 || _ # .
+
+!
+! ============================================================
+! PRONUNCIATION OF SHEWA
+! Vocal shewa = reduced /ə/
+! Silent shewa = glottal stop before vowel
+! ============================================================
+
+define Vocal_Shewa
+  ! Silent shewa before consonant
+  0:ʔ || Vowel _ C .
+  
+  ! Vocal shewa before vowel
+  0:ə || C _ Vowel .
+
+!
+! ============================================================
+! B/K/L PREPOSITION + SHEWA
+! Before shewa-initial word: becomes dagesh
+! ============================================================
+
+define BKL_Shewa_Dagesh
+  [ b | k | l ]:0 -> [ b:k | k:k | l:l ] || _ Shewa .
+
+!
+! ============================================================
+! COMPOSE SHEWA RULES
+! ============================================================
+
+define ShewaRules
+  Shewa_Chireq
+  .o.
+  Shewa_After_Long_Vowel
+  .o.
+  Maqqef_Shewa
+  .o.
+  No_Final_Shewa
+  .o.
+  Vocal_Shewa
+  .o.
+  BKL_Shewa_Dagesh
+;
+
+regex ShewaRules;

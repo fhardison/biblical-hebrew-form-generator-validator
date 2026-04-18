@@ -1,0 +1,234 @@
+!
+! affixes.lexc - Pronominal Suffixes and Agreement Markers
+! Contains subject agreement suffixes and pronominal object/possessive suffixes
+!
+
+!
+! ============================================================
+! PERFECT SUFFIXES (attach to qatal, niphal, piel, pual, hiphil, hophal)
+! ============================================================
+
+LEXICON SUF-PERF
+
+! 3rd person - no suffix for 3ms/3fs
+%.3ms:0      # ;
+%.3fs:0      # ;
+
+! 2nd person
+%.2ms:Ta     # ;
+%.2fs:Ta     # ;
+
+! 1st person
+%.1cs:Ti     # ;
+
+! 3rd plural
+%.3mp:hem    # ;   ! הֶם
+%.3fp:hen    # ;   ! הֶן
+
+! 2nd plural
+%.2mp:kem    # ;   ! כֶּם
+%.2fp:ken    # ;   ! כֶּן
+
+! 1st plural
+%.1cp:nu     # ;   ! נוּ
+
+
+!
+! ============================================================
+! IMPERFECT PREFIXES (attach to yiqtol, niphal, piel, hiphil)
+! ============================================================
+
+LEXICON PREF-IMPF
+
+! 3rd person
+%.3ms:y      # ;    ! י
+%.3fs:t      # ;    ! ת (or י with certain verbs)
+
+! 2nd person  
+%.2ms:t      # ;    ! ת
+%.2fs:t      # ;    ! ת
+
+! 1st person
+%.1cs:3      # ;    ! א
+%.1cp:n      # ;    ! נ
+
+! 3rd plural
+%.3mp:ywu    # ;   ! יְּוּ (with dagesh)
+%.3fp:tnh    # ;   ! תְּנָה
+
+! 2nd plural
+%.2mp:twu    # ;   ! תְּוּ
+%.2fp:tnh    # ;   ! תְּנָה
+
+
+!
+! ============================================================
+! IMPERATIVE SUFFIXES
+! ============================================================
+
+LEXICON SUF-IMPV
+
+! 2ms - no suffix
+%.2ms:0      # ;
+
+! 2fs - ה
+%.2fs:h      # ;
+
+! 2mp - וּ
+%.2mp:wu    # ;
+
+! 2fp - נָה
+%.2fp:nah   # ;
+
+
+!
+! ============================================================
+! PRONOMINAL OBJECT SUFFIXES (attach to verbs)
+! ============================================================
+
+LEXICON OBJ-SUF
+
+! Direct object markers
+%.1cs:ni     # ;    ! נִי
+%.2ms:Xa     # ;    ! ךָ  
+%.2fs:X      # ;    ! ךְ
+%.3ms:o      # ;    ! וֹ  
+%.3fs:h      # ;    ! ָהּ
+%.1cp:nu     # ;    ! נוּ
+
+%.2mp:kem    # ;    ! כֶּם
+%.2fp:ken    # ;    ! כֶּן  
+%.3mp:hem    # ;    ! הֶם
+%.3fp:hen    # ;    ! הֶן
+
+
+!
+! ============================================================
+! POSSESSIVE SUFFIXES (attach to nouns)
+! ============================================================
+
+LEXICON POS-SUF
+
+! Singular possessor
+%.1cs:i      # ;    ! ִי
+%.2ms:Xa     # ;    ! ךָ
+%.2fs:X      # ;    ! ךְ
+%.3ms:o      # ;    ! וֹ / הוּ
+%.3fs:h      # ;    ! הָ / ָהּ
+
+! Plural possessor
+%.1cp:nu     # ;    ! נוּ
+%.2mp:kem    # ;    ! כֶּם
+%.2fp:ken    # ;    ! כֶּן
+%.3mp:hem    # ;    ! הֶם
+%.3fp:hen    # ;    ! הֶן
+
+
+!
+! ============================================================
+! PROCLITIC PARTICLES
+! ============================================================
+
+LEXICON PROCLITIC
+
+! Definite article ה
+%<art%>:h     # ;
+
+! Conjunction ו
+%<conj%>:w     # ;
+%<conj%>:wu    # ;    ! וּ with dagesh  
+
+! Preposition ב
+%<b%>:b      # ;
+%<b-art%>:b    # ;    ! ב + article
+
+! Preposition כ
+%<k%>:k       # ;
+%<k-art%>:k    # ;    ! כ + article
+
+! Preposition ל
+%<l%>:l       # ;
+%<l-art%>:l    # ;    ! ל + article
+
+! Preposition מ (מן)
+%<m%>:m       # ;
+
+
+!
+! ============================================================
+! DAGESH AND VOWEL MARKERS (phonological)
+! ============================================================
+
+LEXICON DAGESH
+
+! Dagesh lene - in בגדכפט after vowel
+%<dageshlene%>:  # ;
+
+! Dagesh forte - gemination marker
+%<dageshforte%>: # ;
+
+
+!
+! ============================================================
+! VOWEL QUANTITY MARKERS
+! ============================================================
+
+LEXICON VOWEL
+
+! Short vowels
+%<patach%>:a   # ;
+%<segol%>:e    # ;
+%<hiriq%>:i   # ;
+%<holam%>:o    # ;
+%<shwa%>:0     # ;
+
+! Long vowels
+%<tsere%>:e:   # ;
+%<sere%>:e:    # ;
+%<holem%>:o:   # ;
+%<qamets%>:a:   # ;
+
+
+!
+! ============================================================
+! PARTIALS FOR COMPOUND FORMS
+! ============================================================
+
+! ============================================================
+! Participle plural markers
+! ============================================================
+
+LEXICON PLNUM
+
+%<mp%>:im     # ;
+%<fp%>:ot     # ;
+
+
+! ============================================================
+! Dual markers (nouns)
+! ============================================================
+
+LEXICON DUAL
+
+%.sd:ayim     # ;
+%.fd:ayim     # ;
+
+
+! ============================================================
+! Plural markers (nouns)
+! ============================================================
+
+LEXICON PL
+
+%.mp:im      # ;
+%.fp:ot      # ;
+
+
+! ============================================================
+! Feminine markers
+! ============================================================
+
+LEXICON FEM
+
+%.fs:t       # ;
+%.fp:t       # ;

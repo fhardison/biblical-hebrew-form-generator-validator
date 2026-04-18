@@ -1,0 +1,172 @@
+!
+! roots.lexc - Biblical Hebrew Verb Root Lexicon
+! Contains all roots from Macula with their class tags
+!
+! Root class tags:
+!   strong      - regular triliteral root
+!   I-aleph     - roots starting with א
+!   I-nun       - roots starting with נ (initial nun assimilates)
+!   I-waw       - roots starting with ו (initial waw)
+!   I-yod       - roots starting with י
+!   I-guttural  - roots starting with אהחער
+!   II-guttural - roots with guttural in position 2
+!   III-guttural - roots with guttural in position 3
+!   III-he     - roots ending with ה
+!   III-aleph   - roots ending with א
+!   hollow     - roots with ו or י in position 2 (C2)
+!   geminate   - roots with identical C1 and C2
+!   doubly-weak - multiple weak features
+
+LEXICON Root
+
+! Continuation classes - gate which stems each root can enter
+! Strong verbs: all 7 binyanim
+STRONG-ALL     stems ;
+
+! Doubly-weak: all stems but limited
+WEAK-ALL      stems ;
+
+! Derived only (no Qal)
+DERIVED-ALL   niphal piel pual hiphil hophal hithpael ;
+
+! ============================================================
+! STRONG VERBS - Regular triliteral roots
+! Continuation class: goes to all binyanim
+! ============================================================
+
+בָּדַל:bdal [I=STRONG] stems ;
+דָּבָר:dbar [I=STRONG] stems ;
+כָּתַב:ktb [I=STRONG] stems ;
+שָׁמַר:smr [I=STRONG] stems ;
+עָבַר:3br [I=STRONG] stems ;
+בָּנָה:bnh [I=STRONG] stems ;
+קָטַל:qtl [I=STRONG] stems ;
+שָׁלַח:slh [I=STRONG] stems ;
+פָּקַד:pqd [I=STRONG] stems ;
+נָתַן:ntn [I=STRONG] stems ;
+לָמַד:lmd [I=STRONG] stems ;
+יָדַע:yd3 [I=STRONG] stems ;
+שָׁתַל:stl [I=STRONG] stems ;
+אָכַל:3kl [I=STRONG] stems ;
+גָּמַל:gml [I=STRONG] stems ;
+שָׁפַט:spT [I=STRONG] stems ;
+צָוָה:Twoh [I=STRONG] stems ;
+עָנָה:3nh [I=STRONG] stems ;
+עָשָׂה:3sh [I=STRONG] stems ;
+זָכַר:zkr [I=STRONG] stems ;
+יָחַד:yhd [I=STRONG] stems ;
+
+! ============================================================
+! WEAK VERBS - Various classes
+! ============================================================
+
+! III-he verbs (with ה)
+הָיָה:hyh [I=WEAK+III_HE] stems ;
+קָוָה:woh [I=WEAK+III_HE] stems ;
+רָאָה:r3h [I=WEAK+III_HE] stems ;
+נָשָׂא:nś3 [I=WEAK+III_HE] stems ;
+בָּנָה:bnh [I=WEAK+III_HE] stems ;
+
+! Hollow verbs (II-waw/yod)
+קוּם:wum [I=WEAK+HOLLOW] stems ;
+שׁוּב:wb [I=WEAK+HOLLOW] stems ;
+בּוּא:bwa [I=WEAK+HOLLOW] stems ;
+קוּם:wum [I=WEAK+HOLLOW] stems ;
+יָלַד:yld [I=WEAK+HOLLOW] stems ;
+שִׂים:sim [I=WEAK+HOLLOW] stems ;
+קוּם:qum [I=WEAK+HOLLOW] stems ;
+
+! I-guttural
+אָמַר:3mr [I=WEAK+I_GUTTURAL] stems ;
+רָאָה:r3h [I=WEAK+I_GUTTURAL] stems ;
+חָלַץ:hlT [I=WEAK+I_GUTTURAL] stems ;
+חָרַב:hrb [I=WEAK+I_GUTTURAL] stems ;
+עָבַר:3br [I=WEAK+I_GUTTURAL] stems ;
+עָשָׂה:3sh [I=WEAK+I_GUTTURAL] stems ;
+
+! I-nun (nun assimilates)
+נָפַל:npl [I=WEAK+I_NUN] stems ;
+נָתַן:ntn [I=WEAK+I_NUN] stems ;
+נָשָׂא:nś3 [I=WEAK+I_NUN] stems ;
+נָסַף:nsp [I=WEAK+I_NUN] stems ;
+נָגַשׂ:ngś [I=WEAK+I_NUN] stems ;
+
+! ============================================================
+! STEMS - Continuation class for binyan selection
+! ============================================================
+
+LEXICON stems
+
+! Qal - ground stem
+qal:qal     VFINAL ;
+qal被动:qal-pas PNOM ;
+qal-inf:qal-inf VINF ;
+qal-ptcp:qal-ar VBSE ;
+
+! Niphal - passive/reflexive of Qal
+niphal:niphal VFINAL ;
+niphal-inf:niphal-inf VINF ;
+niphal-ptcp:niphal-ar VBSE ;
+
+! Piel - intensive active
+piel:piel VFINAL ;
+piel-inf:piel-inf VINF ;
+piel-ptcp:piel-ar VBSE ;
+
+! Pual - intensive passive
+pual:pual VFINAL ;
+pual-inf:pual-inf VINF ;
+
+! Hiphil - causative
+hiphil:hiphil VFINAL ;
+hiphil-inf:hiphil-inf VINF ;
+hiphil-ptcp:hiphil-ar VBSE ;
+
+! Hophal - causative passive
+hophal:hophal VFINAL ;
+hophal-inf:hophal-inf VINF ;
+
+! Hithpael - reflexive intensive
+hithpael:hithpael VFINAL ;
+hithpael-inf:hithpael-inf VINF ;
+hithpael-ptcp:hithpael-ar VBSE ;
+
+! ============================================================
+! LEXICAL CATEGORIES
+! ============================================================
+
+LEXICON VFINAL
+%<perf%>%.3ms:   # ;
+%<perf%>%.3fs:   # ;
+%<perf%>%.2ms:   # ;
+%<perf%>%.2fs:   # ;
+%<perf%>%.1cs:   # ;
+%<perf%>%.3mp:   # ;
+%<perf%>%.2mp:   # ;
+%<perf%>%.1cp:   # ;
+%<impf%>%.3ms:   # ;
+%<impf%>%.3mp:   # ;
+%<impf%>%.2ms:   # ;
+%<impf%>%.2mp:   # ;
+%<impf%>%.1cs:   # ;
+%<impf%>%.1cp:   # ;
+
+LEXICON PNOM
+%<perf%>%.3ms:   # ;
+%<perf%>%.3fs:   # ;
+%<perf%>%.2ms:   # ;
+%<perf%>%.2fs:   # ;
+%<perf%>%.1cs:   # ;
+%<perf%>%.3mp:   # ;
+%<perf%>%.2mp:   # ;
+%<perf%>%.1cp:   # ;
+
+LEXICON VINF
+%<inf-c%>:   # ;
+%<inf-a%>:   # ;
+
+LEXICON VBSE
+%<ptcp%>%.ms:   # ;
+%<ptcp%>%.fs:   # ;
+%<ptcp%>%.mp:   # ;
+%<ptcp%>%.fp:   # ;

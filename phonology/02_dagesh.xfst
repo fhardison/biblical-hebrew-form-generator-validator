@@ -1,0 +1,96 @@
+!
+! 02_dagesh.xfst - Dagesh Placement Rules
+! Lene and Forte dagesh rules
+!
+! References: Joüon-Muraoka §§14-16, GKC §§20-22
+!
+
+!
+! ============================================================
+! DEFINITIONS
+! ============================================================
+
+define BGDKPT [ b | g | d | k | p | t ] .
+define Velar [ k | g | q ] .
+define LABIAL [ b | p | m | w ] .
+
+!
+! ============================================================
+! Dagesh Lene (Lenition)
+! Insert dagesh in BGDKPT after:
+!  1. A vowel (not at start of word - special case)
+!  2. Consecutive consonant (gemination)
+! ============================================================
+
+define Dagesh_Lene_Vowel
+  0 -> d: || Vowel _ BGDKPT .
+  
+define Dagesh_Lene_Gemination
+  BGDKPT -> d:BGDKPT || BGDKPT _ BGDKPT .
+
+!
+! ============================================================
+! Dagesh Forte (Gemination)
+! Insert dagesh from:
+!  1. Nun assimilation ( נ + C → C with dagesh)
+!  2. Piel/Hithpael gemination
+!  3. Intensified forms
+! ============================================================
+
+define Dagesh_Forte_Nun
+  n -> d:n || _ [ b | g | d | k | p | t | m | n | r | l | s | š ] .
+  
+define Dagesh_Forte_Gemination
+  [ b | g | d | k | p | t | m | n | r | l | s | š ] -> d:[ b | g | d | k | p | t | m | n | r | l | s | š ] || [ b | g | d | k | p | t | m | n | r | l | s | š ] _ [i | e] .
+
+!
+! ============================================================
+! NO DAGESH in gutturals
+! Gutturals cannot take dagesh forte
+! ============================================================
+
+define No_Dagesh_Guttural
+  d:b -> 0 || _ [ h | 3 | h | r ] .
+  d:g -> 0 || _ [ h | 3 | h | r ] .
+  d:k -> 0 || _ [ h | 3 | h | r ] .
+  d:p -> 0 || _ [ h | 3 | h | r ] .
+  d:t -> 0 || _ [ h | 3 | h | r ] .
+  d:m -> 0 || _ [ h | 3 | h | r ] .
+  d:n -> 0 || _ [ h | 3 | h | r ] .
+  d:r -> 0 || _ [ h | 3 | h | r ] .
+  d:l -> 0 || _ [ h | 3 | h | r ] .
+  d:s -> 0 || _ [ h | 3 | h | r ] .
+
+!
+! ============================================================
+! Dagesh in prepositions (BGDKPT after מן)
+! מ followed by BGDKPT takes dagesh
+! ============================================================
+
+define Dagesh_Mem_Prep
+  d:b -> d:b || m _ b .
+  d:g -> d:g || m _ g .
+  d:k -> d:k || m _ k .
+  d:p -> d:p || m _ p .
+  d:t -> d:t || m _ t .
+
+!
+! ============================================================
+! Compose dagesh rules
+! ============================================================
+
+define DageshRules
+  Dagesh_Lene_Vowel
+  .o.
+  Dagesh_Lene_Gemination
+  .o.
+  Dagesh_Forte_Nun
+  .o.
+  Dagesh_Forte_Gemination
+  .o.
+  No_Dagesh_Guttural
+  .o.
+  Dagesh_Mem_Prep
+;
+
+regex DageshRules;

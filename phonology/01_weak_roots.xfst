@@ -1,0 +1,82 @@
+!
+! 01_weak_roots.xfst - Weak Root Realization Rules
+! Apply weak root adjustments before other phonology
+!
+! References: Joüon-Muraoka §§53-58, GKC §§73-84
+!
+
+!
+! ============================================================
+! III-he apocope (היקה)
+! When ה is at word end in Qal imperfect, itapheres
+! ============================================================
+
+define III_he_Apocope
+  [h] -> 0 || y i _ #   .
+
+
+!
+! ============================================================
+! I-nun assimilation
+! Initial nun assimilates to following consonant with dagesh forte
+! ============================================================
+
+define I_Nun_Assimilation
+  n -> d: || _ [ b | g | d | k | p | t | m | n | r | l | s | š ] .
+  
+!
+! ============================================================
+! I-waw/yod reduction
+! ו or י in position 2 reduces to shwa before non-vowel
+! ============================================================
+
+define I_Waw_Reduction
+  w -> 0 || [C]:_ [C]: .
+  
+define I_Yod_Reduction  
+  y -> 0 || [C]:_ [C]: .
+
+!
+! ============================================================
+! Hollow verb vowel insertion
+! Hollow verbs get theme vowel in certain cells
+! ============================================================
+
+define Hollow_Vowel_a
+  [w,y] -> a || qatal _ .
+  
+define Hollow_Vowel_o
+  [w,y] -> o || yiqtol _ .
+
+!
+! ============================================================
+! Geminate gemination
+! Geminate roots double C1 in Piel/Hithpael
+! ============================================================
+
+define Geminate_Gemination
+  C -> d:C || C _ [i,e].
+
+!
+! ============================================================
+! Compose all weak root rules
+! Applied in this order
+! ============================================================
+
+define WeakRootRules
+  III_he_Apocope
+  .o.
+  I_Nun_Assimilation
+  .o.
+  I_Waw_Reduction
+  .o.
+  I_Yod_Reduction
+  .o.
+  Hollow_Vowel_a
+  .o.
+  Hollow_Vowel_o
+  .o.
+  Geminate_Gemination
+;
+
+regex WeakRootRules;

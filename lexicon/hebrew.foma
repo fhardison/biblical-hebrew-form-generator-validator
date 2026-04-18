@@ -1,0 +1,139 @@
+!
+! hebrew.foma - Main FST Definitions
+! Composes all LEXC lexicons into a single morphological analyzer
+!
+! Usage:
+!   foma
+!   foma> read lexc hebrew.foma
+!   foma> define MyFst
+!   foma> apply up word
+!   foma> apply down analysis
+!
+
+! ============================================================
+! Define the analyzer
+! ============================================================
+
+define Inanimate NOUNS [ [[+I]:+II [":"]:":"] | [+I] [+II] [+III] ] ] ;
+define Animate [ א | ב | ג | ד | ה | ו | ז | ח | ט | י | כ | ל | מ | נ | ס | ע | פ | צ | ק | ר | ש | ת ] ;
+
+define Rootletter [א|ב|ג|ד|ה|ו|ז|ח|ט|י|כ|ל|מ|נ|ס|ע|פ|צ|ק|ר|ש|ת] ;
+define Consonant [ Rootletter | ׂ | �ּ ] ;
+define Vowel [ א | א | ה | ו | י | ה ]:0 ;
+
+define Letter [ Consonant | Vowel ] ;
+
+define NounPhonology [ ׂ -> 0 || ק _ ]:1 ;
+define DageshRule [ ׂ -> ׂ || Consonant _ Consonant ]:2 ;
+define HeFinal [ ה -> 0 || _ # ]:3 ;
+
+regex
+  [INFLVERB+SUF]
+  .o.
+  [PHONOLOGY]
+;
+
+! ============================================================
+! Alternative: simpler phrase-based composition
+! ============================================================
+
+define MORPHOLOGY
+  [PREFIX]
+  .o.
+  [STEM]
+  .o.
+  [SUFFIX]
+;
+
+define PREFIX
+  [PROCLITIC]*
+;
+
+define STEM
+  ROOTS
+  .o.
+  STEMS
+;
+
+define SUFFIX
+  [PERFSUF]
+  | [IM PFSUF]
+  | [POSSESSIVE]
+;
+
+define PROCLITIC
+  %<art%>:h
+  | %<conj%>:w
+  | %<b%>:b
+  | %<k%>:k
+  | %<l%>:l
+;
+
+define PHONOLOGY
+  NounPhonology
+  .o.
+  DageshRule
+  .o.
+  HeFinal
+;
+
+define INFLVERB
+  VFINAL
+  .o.
+  VINF
+  .o.
+  VBSE
+;
+
+define PERFSUF
+  %<3ms%>:0
+  | %<3fs%>:0
+  | %<2ms%>:Ta
+  | %<2fs%>:Ta
+  | %<1cs%>:Ti
+  | %<3mp%>:hem
+  | %<2mp%>:kem
+  | %<1cp%>:nu
+;
+
+define IMPFSUF
+  %<3ms%>:y
+  | %<2ms%>:t
+  | %<1cs%>:3
+  | %<1cp%>:n
+;
+
+define POSSESSIVE
+  %<1cs%>:i
+  | %<2ms%>:Xa
+  | %<3ms%>:o
+  | %<3fs%>:h
+;
+
+define VFINAL
+  [qal]
+  | [niphal]
+  | [piel]
+  | [pual]
+  | [hiphil]
+  | [hophal]
+  | [hithpael]
+;
+
+define VINF
+  [qal-inf]
+  | [niphal-inf]
+  | [piel-inf]
+  | [hiphil-inf]
+  | [qal-pas]
+;
+
+define VBSE
+  [qal-ar]
+  | [niphal-ar]
+  | [piel-ar]
+  | [hiphil-ar]
+  | [hithpael-ar]
+;
+
+!

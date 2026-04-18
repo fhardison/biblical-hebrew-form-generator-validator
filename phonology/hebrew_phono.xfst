@@ -1,0 +1,31 @@
+!
+! hebrew_phono.xfst - Phonological Rule Cascade
+! Composes all phonological rules in correct order
+!
+! Rule ordering is critical:
+! 1. Weak roots first (structural changes)
+! 2. Dagesh rules (gemination)
+! 3. Guttural rules (before vowels)
+! 4. Vowel reduction
+! 5. Final forms
+! 6. Shewa rules
+! 7. Particle combinations
+!
+
+define PHONOLOGY
+  [01_weak_roots]
+  .o.
+  [02_dagesh]
+  .o.
+  [04_gutturals]
+  .o.
+  [05_vowels]
+  .o.
+  [06_final_forms]
+  .o.
+  [07_shewa]
+  .o.
+  [08_particles]
+;
+
+regex PHONOLOGY;

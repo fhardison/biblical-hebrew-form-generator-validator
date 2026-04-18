@@ -1,0 +1,118 @@
+!
+! 05_vowels.xfst - Vowel Reduction Rules
+! Propretonic and pretonic vowel reduction
+!
+! References: Joüon-Muraoka §§9-10, GKC §§9-10
+!
+
+!
+! ============================================================
+! VOWEL DEFINITIONS
+! ============================================================
+
+define SHORT    [ a | e | i | o | u ] .
+define LONG     [ a: | e: | i: | o: | u: | a | e | i | o | u ] .
+define DIPHTHONG [ a.w | a.y | i.w | i.y ] .
+
+!
+! ============================================================
+! PROPRETONIC REDUCTION
+! In open syllable before stressed syllable:
+! qamets → shewa
+! tsere → shewa
+! ============================================================
+
+define Propretonic_Reduction_Qamets
+  a -> 0 || C Vowel _ C a: .
+  
+define Propretonic_Reduction_Tsere  
+  e -> 0 || C Vowel _ C e: .
+
+define Propretonic_Reduction_Patach
+  a -> 0 || C Vowel _ C a .
+
+!
+! ============================================================
+! PRETONIC ADJUSTMENTS
+! Lengthening in some environments, reduction in others
+! ============================================================
+
+define Pretonic_Lengthening
+  a -> a: || _ C a .
+  e -> e: || _ C e .
+
+define Pretonic_Reduction
+  a: -> a || _ C 0 .
+  e: -> e || _ C 0 .
+
+!
+! ============================================================
+! CLOSED SYLLABLE SHORTENING
+! Long vowels shorten in closed unaccented syllables
+! ============================================================
+
+define Closed_Syllable_Shorten
+  a: -> a || C _ C .
+  e: -> e || C _ C .
+  i: -> i || C _ C .
+  o: -> o || C _ C .
+  u: -> u || C _ C .
+
+!
+! ============================================================
+! VOWEL COALESCENCE
+! Two adjacent vowels merge into one
+! ============================================================
+
+define Vowel_Coalescence
+  a + a -> a: .
+  a + i -> a: .
+  a + u -> o: .
+  e + e -> e: .
+  i + i -> i: .
+  o + a -> o: .
+
+!
+! ============================================================
+! MAQQEF HANDLING
+! Maqqef (hyphen) reduces following word
+! ============================================================
+
+define Maqqef_Reduction
+  Vowel -> 0 || _ [ - | = ] .
+
+!
+! ============================================================
+! METEG PLACEMENT  
+! Meteg is a secondary stress marker
+! ============================================================
+
+define Meteg_Placement
+  0 -> + || Vowel [ C Vowel | C C Vowel ] _ C .
+
+!
+! ============================================================
+! Compose vowel rules
+! ============================================================
+
+define VowelRules
+  Propretonic_Reduction_Qamets
+  .o.
+  Propretonic_Reduction_Tsere
+  .o.
+  Propretonic_Reduction_Patach
+  .o.
+  Pretonic_Lengthening
+  .o.
+  Pretonic_Reduction
+  .o.
+  Closed_Syllable_Shorten
+  .o.
+  Vowel_Coalescence
+  .o.
+  Maqqef_Reduction
+  .o.
+  Meteg_Placement
+;
+
+regex VowelRules;

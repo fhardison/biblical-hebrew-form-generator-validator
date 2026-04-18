@@ -1,0 +1,323 @@
+# Master Paradigm Definition for Biblical Hebrew FST
+# Defines all valid morphological cells for verbs, nouns, and affixes
+
+stems:
+  - qal
+  - niphal
+  - piel
+  - pual
+  - hiphil
+  - hophal
+  - hithpael
+
+verb_conjugations:
+  - qatal      # Perfect / converted perfect
+  - yiqtol     # Imperfect / converted imperfect
+  - imperative # Imperative
+  - wayyiqtol  # Narrative: וַיְּקַטֵל (wayyiqtol)
+  - weqatal    # Converted sequential: וּבֵרֵאת
+  - infinitive_absolute
+  - infinitive_construct
+  - participle_active
+  - participle_passive
+  - jussive
+  - cohortative
+
+persons:
+  - first
+  - second
+  - third
+
+genders:
+  - masculine
+  - feminine
+  - common  # for nouns/gentilics that don't specify gender
+
+numbers:
+  - singular
+  - plural
+  - dual
+
+noun_types:
+  - common
+  - proper
+  - gentilic
+
+states:
+  - absolute
+  - construct
+
+# ============================================================
+# PRONOMINAL AFFIXES
+# ============================================================
+
+# Verb subject agreement: perfect suffixes
+verb_suffixes:
+  1cs: { morph: "Sp1cs", surface: "ִי", person: first, gender: common, number: singular }
+  2ms: { morph: "Sp2ms", surface: "ָּ", person: second, gender: masculine, number: singular }
+  2fs: { morph: "Sp2fs", surface: "ָּ", person: second, gender: feminine, number: singular }
+  2mp: { morph: "Sp2mp", surface: "ֶּם", person: second, gender: masculine, number: plural }
+  2fp: { morph: "Sp2fp", surface: "ֶּן", person: second, gender: feminine, number: plural }
+  3ms: { morph: ""      , surface: "", person: third, gender: masculine, number: singular }
+  3fs: { morph: ""      , surface: "", person: third, gender: feminine, number: singular }
+  3mp: { morph: "Sp3mp", surface: "ֶּם", person: third, gender: masculine, number: plural }
+  3fp: { morph: "Sp3fp", surface: "ֶּן", person: third, gender: feminine, number: plural }
+
+# Verb subject agreement: imperfect prefixes
+verb_prefixes:
+  1cs: { morph: "Vp1cs", surface: "אָ", person: first, gender: common, number: singular }
+  1cp: { morph: "Vp1cp", surface: "נְּ", person: first, gender: common, number: plural }
+  2ms: { morph: "Vp2ms", surface: "תְּ", person: second, gender: masculine, number: singular }
+  2fs: { morph: "Vp2fs", surface: "תְּ", person: second, gender: feminine, number: singular }
+  2mp: { morph: "Vp2mp", surface: "תְּוּ", person: second, gender: masculine, number: plural }
+  2fp: { morph: "Vp2fp", surface: "תְּנָה", person: second, gender: feminine, number: plural }
+  3ms: { morph: "Vp3ms", surface: "יָ", person: third, gender: masculine, number: singular }
+  3fs: { morph: "Vp3fs", surface: "תְּ", person: third, gender: feminine, number: singular }
+  3mp: { morph: "Vp3mp", surface: "יְּוּ", person: third, gender: masculine, number: plural }
+  3fp: { morph: "Vp3fp", surface: "תְּנָה", person: third, gender: feminine, number: plural }
+
+# Pronominal object suffixes (attach to verbs)
+pronoun_object:
+  1cs: { morph: "So1cs", surface: "נִי" }
+  2ms: { morph: "So2ms", surface: "ךָ" }
+  2fs: { morph: "So2fs", surface: "ךְ" }
+  3ms: { morph: "So3ms", surface: "וֹ" }
+  3fs: { morph: "So3fs", surface: "ָהּ" }
+  1cp: { morph: "So1cp", surface: "נוּ" }
+  2mp: { morph: "So2mp", surface: "כֶּם" }
+  2fp: { morph: "So2fp", surface: "כֶּן" }
+  3mp: { morph: "So3mp", surface: "הֶם" }
+  3fp: { morph: "So3fp", surface: "הֶן" }
+
+# Possessive suffixes (attach to nouns)
+possessive_suffixes:
+  1cs: { morph: "Sp1cs", surface: "ִי", person: first, number: singular }
+  2ms: { morph: "Sp2ms", surface: "ךָ", person: second, number: singular }
+  2fs: { morph: "Sp2fs", surface: "ךְ", person: second, number: singular }
+  2mp: { morph: "Sp2mp", surface: "כֶּם", person: second, number: plural }
+  2fp: { morph: "Sp2fp", surface: "כֶּן", person: second, number: plural }
+  3ms: { morph: "Sp3ms", surface: "וֹ", person: third, number: singular }
+  3fs: { morph: "Sp3fs", surface: "ָה", person: third, number: singular }
+  1cp: { morph: "Sp1cp", surface: "נוּ", person: first, number: plural }
+  3mp: { morph: "Sp3mp", surface: "הֶם", person: third, number: plural }
+  3fp: { morph: "Sp3fp", surface: "הֶן", person: third, number: plural }
+
+# ============================================================
+# PROCLITICS (Prefix particles)
+# ============================================================
+
+# Definite article (he-ha)
+definite_article:
+  default: { morph: "Rd", surface: "הְ", description: "definite article" }
+  # Before gutturals (takes hateph instead of shwa)
+  before_guttural: { morph: "Rd", surface: "הַ" }
+
+# Conjunction vav
+conjunction:
+  simple:   { morph: "C",  surface: "וְ", description: "conjunction (shwa)" }
+  dagesh:   { morph: "C",  surface: "וּ", description: "conjunction with dagesh in following" }
+  hadash:   { morph: "C",  surface: "וַ", description: "conjunction (patach) - rare" }
+
+# Prepositions B/K/L (and variants)
+prepositions:
+  beth:
+    default: { morph: "R", surface: "בְ", description: "preposition beth (shwa)" }
+    before_article: { morph: "Rd", surface: "בַ", description: "beth + article" }
+    before_shewa:  { morph: "R", surface: "בּ", description: "beth with dagesh" }
+    elision_b:     { morph: "R", surface: "בּ", description: "beth with he elided" }
+  
+  kaph:
+    default: { morph: "R", surface: "כְ", description: "preposition kaph (shwa)" }
+    before_article: { morph: "Rd", surface: "כַ", description: "kaph + article" }
+    before_shewa:  { morph: "R", surface: "כּ", description: "kaph with dagesh" }
+    elision_k:     { morph: "R", surface: "כּ", description: "kaph with he elided" }
+  
+  lamed:
+    default: { morph: "R", surface: "לְ", description: "preposition lamed (shwa)" }
+    before_article: { morph: "Rd", surface: "לַ", description: "lamed + article" }
+    before_shewa:  { morph: "R", surface: "לּ", description: "lamed with dagesh" }
+    elision_l:     { morph: "R", surface: "לּ", description: "lamed with he elided" }
+
+# Preposition mem (from)
+mem:
+  default: { morph: "R", surface: "מְ", description: "preposition mem (shwa)" }
+  before_article: { morph: "Rd", surface: "מַ", description: "mem + article" }
+  before_shewa:  { morph: "R", surface: "מּ", description: "mem with dagesh" }
+
+# Preposition shin (toward)
+shin:
+  default: { morph: "R", surface: "שְ", description: "preposition shin (shwa)" }
+  before_article: { morph: "Rd", surface: "שַ", description: "shin + article" }
+
+# Relative particle שֶה
+relative:
+  simple:   { morph: "S",  surface: "שֶׁ", description: "relative particle" }
+  asher:    { morph: "S",  surface: "אֲשֶׁ", description: "archaic form" }
+
+# Interrogative particle ה
+interrogative:
+  default: { morph: "T", surface: "הַ", description: "interrogative he" }
+  archaic: { morph: "T", surface: "ה", description: "archaic interrogative" }
+
+# ============================================================
+# MORPHEME ORDER (Morphotactics)
+# ============================================================
+
+morpheme_order:
+  # Full word: conjunction + preposition + article + stem + agreement + possessive
+  - conjunction      # ו
+  - preposition      # ב/כ/ל/מ/ש
+  - definite_article # ה
+  - stem            # verb root + binyan OR noun
+  - agreement       # pronominal object (verb) / possessive suffix (noun)
+  - pronominal_suffix # additional suffix
+
+# ============================================================
+# MORPHOSYNTACTIC CELLS
+# ============================================================
+
+verb_cells:
+  qatal:
+    description: "Perfect (conversive) - completed action"
+    cells:
+      - { person: first, gender: common, number: singular }
+      - { person: first, gender: common, number: plural }
+      - { person: second, gender: masculine, number: singular }
+      - { person: second, gender: feminine, number: singular }
+      - { person: second, gender: masculine, number: plural }
+      - { person: second, gender: feminine, number: plural }
+      - { person: third, gender: masculine, number: singular }
+      - { person: third, gender: feminine, number: singular }
+      - { person: third, gender: masculine, number: plural }
+      - { person: third, gender: feminine, number: plural }
+
+  yiqtol:
+    description: "Imperfect - incomplete/future action"
+    cells:
+      - { person: first, gender: common, number: singular }
+      - { person: first, gender: common, number: plural }
+      - { person: second, gender: masculine, number: singular }
+      - { person: second, gender: feminine, number: singular }
+      - { person: second, gender: masculine, number: plural }
+      - { person: second, gender: feminine, number: plural }
+      - { person: third, gender: masculine, number: singular }
+      - { person: third, gender: feminine, number: singular }
+      - { person: third, gender: masculine, number: plural }
+      - { person: third, gender: feminine, number: plural }
+
+  imperative:
+    description: "Command"
+    cells:
+      - { person: second, gender: masculine, number: singular }
+      - { person: second, gender: feminine, number: singular }
+      - { person: second, gender: masculine, number: plural }
+      - { person: second, gender: feminine, number: plural }
+
+  wayyiqtol:
+    description: "Narrative converted imperfect"
+    cells:
+      - { person: third, gender: masculine, number: singular }
+      - { person: third, gender: feminine, number: singular }
+      - { person: third, gender: masculine, number: plural }
+      - { person: third, gender: feminine, number: plural }
+
+  weqatal:
+    description: "Converted sequential future"
+    cells:
+      - { person: first, gender: common, number: singular }
+      - { person: first, gender: common, number: plural }
+      - { person: second, gender: masculine, number: singular }
+      - { person: second, gender: feminine, number: singular }
+      - { person: second, gender: masculine, number: plural }
+      - { person: second, gender: feminine, number: plural }
+      - { person: third, gender: masculine, number: singular }
+      - { person: third, gender: feminine, number: singular }
+      - { person: third, gender: masculine, number: plural }
+      - { person: third, gender: feminine, number: plural }
+
+  infinitive_construct:
+    description: "Infinitive construct - verbal noun with dependency"
+    cells: []
+
+  infinitive_absolute:
+    description: "Infinitive absolute - adverbial infinitive"
+    cells: []
+
+  participle_active:
+    description: "Active participle"
+    cells:
+      - { person: "", gender: masculine, number: singular }
+      - { person: "", gender: feminine, number: singular }
+      - { person: "", gender: masculine, number: plural }
+      - { person: "", gender: feminine, number: plural }
+
+  participle_passive:
+    description: "Passive participle"
+    cells:
+      - { person: "", gender: masculine, number: singular }
+      - { person: "", gender: feminine, number: singular }
+      - { person: "", gender: masculine, number: plural }
+      - { person: "", gender: feminine, number: plural }
+
+  jussive:
+    description: "Jussive - wish/command for 3rd person"
+    cells:
+      - { person: third, gender: masculine, number: singular }
+      - { person: third, gender: feminine, number: singular }
+      - { person: third, gender: masculine, number: plural }
+      - { person: third, gender: feminine, number: plural }
+
+  cohortative:
+    description: "Cohortative - self-command (1st person)"
+    cells:
+      - { person: first, gender: common, number: singular }
+      - { person: first, gender: common, number: plural }
+
+noun_cells:
+  singular_absolute:
+    description: "Singular absolute"
+    cells:
+      - { gender: masculine, number: singular, state: absolute }
+      - { gender: feminine, number: singular, state: absolute }
+
+  singular_construct:
+    description: "Singular construct - before suffix/noun"
+    cells:
+      - { gender: masculine, number: singular, state: construct }
+      - { gender: feminine, number: singular, state: construct }
+
+  plural_absolute:
+    description: "Plural absolute"
+    cells:
+      - { gender: masculine, number: plural, state: absolute }
+      - { gender: feminine, number: plural, state: absolute }
+
+  plural_construct:
+    description: "Plural construct"
+    cells:
+      - { gender: masculine, number: plural, state: construct }
+      - { gender: feminine, number: plural, state: construct }
+
+  dual_absolute:
+    description: "Dual absolute"
+    cells:
+      - { gender: masculine, number: dual, state: absolute }
+      - { gender: feminine, number: dual, state: absolute }
+
+  dual_construct:
+    description: "Dual construct"
+    cells:
+      - { gender: masculine, number: dual, state: construct }
+      - { gender: feminine, number: dual, state: construct }
+
+# Cell ID format specification
+cell_id_format: "{stem}.{conjugation}.{person}{gender}{number}[.suffix]"
+noun_cell_id_format: "{type}.{number}.{state}[.possessive]"
+
+examples:
+  verb: "qal.qatal.3ms"
+  verb_imperfect: "piel.yiqtol.2fs"
+  noun: "common.sg.abs"
+  noun_construct: "common.pl.cstr"
+  verb_with_suffix: "qal.qatal.3ms.Sp3ms"
+  noun_with_possessive: "common.sg.abs.Sp1cs"

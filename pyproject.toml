@@ -1,0 +1,17 @@
+[project]
+name = "hebrew-fst"
+version = "0.1.0"
+description = "Biblical Hebrew morphological FST"
+requires-python = ">=3.12"
+dependencies = [
+    "hfst>=3.16.0.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["scripts"]

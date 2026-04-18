@@ -1,0 +1,6066 @@
+{
+  "בָּרָא": [
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "הָיָה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָחַף": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "אָמַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָאָה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "בָּדַל": [
+    "strong"
+  ],
+  "קָרָא": [
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "עָשָׂה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "קָוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "דָּשָׁא": [
+    "III-aleph"
+  ],
+  "זָרַע": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָצָא": [
+    "I-yod",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "אוֹר": [
+    "I-aleph",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָתַן": [
+    "I-nun"
+  ],
+  "מָשַׁל": [
+    "strong"
+  ],
+  "שָׁרַץ": [
+    "II-guttural"
+  ],
+  "עוּף": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רָמַשׂ": [
+    "I-guttural"
+  ],
+  "בָּרַךְ": [
+    "II-guttural"
+  ],
+  "פָּרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָבָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "מָלֵא": [
+    "III-aleph"
+  ],
+  "רָדָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "כָּבַשׁ": [
+    "strong"
+  ],
+  "כָּלָה": [
+    "III-he"
+  ],
+  "שָׁבַת": [
+    "strong"
+  ],
+  "קָדַשׁ": [
+    "strong"
+  ],
+  "צָמַח": [
+    "III-guttural"
+  ],
+  "מָטַר": [
+    "III-guttural"
+  ],
+  "עָבַד": [
+    "I-guttural"
+  ],
+  "עָלָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁקָה": [
+    "III-he"
+  ],
+  "יָצַר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָפַח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָטַע": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שׂים": [
+    "hollow"
+  ],
+  "חָמַד": [
+    "I-guttural"
+  ],
+  "פָּרַד": [
+    "II-guttural"
+  ],
+  "סָבַב": [
+    "geminate"
+  ],
+  "הָלַךְ": [
+    "I-guttural"
+  ],
+  "לָקַח": [
+    "III-guttural"
+  ],
+  "נוח": [
+    "I-nun",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁמַר": [
+    "III-guttural"
+  ],
+  "צָוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אָכַל": [
+    "I-aleph"
+  ],
+  "מוּת": [
+    "hollow"
+  ],
+  "בּוֹא": [
+    "hollow",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "מָצָא": [
+    "III-aleph"
+  ],
+  "נָפַל": [
+    "I-nun"
+  ],
+  "יָשֵׁן": [
+    "I-yod"
+  ],
+  "סָגַר": [
+    "III-guttural"
+  ],
+  "בָּנָה": [
+    "III-he"
+  ],
+  "עָזַב": [
+    "I-guttural"
+  ],
+  "דָּבַק": [
+    "strong"
+  ],
+  "בּוֹשׁ": [
+    "hollow"
+  ],
+  "נָגַע": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָדַע": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "פָּקַח": [
+    "III-guttural"
+  ],
+  "שָׂכַל": [
+    "strong"
+  ],
+  "תָּפַר": [
+    "III-guttural"
+  ],
+  "שָׁמַע": [
+    "III-guttural"
+  ],
+  "חָבָא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "יָרֵא": [
+    "I-yod",
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "נָגַד": [
+    "I-nun"
+  ],
+  "נָשָׁא": [
+    "I-nun",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "אָרַר": [
+    "I-aleph",
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "הלך": [
+    "I-guttural"
+  ],
+  "שִׁית": [
+    "hollow"
+  ],
+  "שׁוּף": [
+    "hollow"
+  ],
+  "יָלַד": [
+    "I-yod"
+  ],
+  "שׁוּב": [
+    "hollow"
+  ],
+  "לָבֵשׁ": [
+    "strong"
+  ],
+  "שָׁלַח": [
+    "III-guttural"
+  ],
+  "חיה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גָּרַשׁ": [
+    "II-guttural"
+  ],
+  "שָׁכַן": [
+    "strong"
+  ],
+  "הָפַךְ": [
+    "I-guttural"
+  ],
+  "הָרָה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "קָנָה": [
+    "III-he"
+  ],
+  "יָסַף": [
+    "I-yod"
+  ],
+  "רָעָה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָרָה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָטַב": [
+    "I-yod"
+  ],
+  "רָבַץ": [
+    "I-guttural"
+  ],
+  "קוּם": [
+    "hollow"
+  ],
+  "הָרַג": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "צָעַק": [
+    "II-guttural"
+  ],
+  "פָּצָה": [
+    "III-he"
+  ],
+  "נוּעַ": [
+    "I-nun",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נוּד": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "נָשָׂא": [
+    "I-nun",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "סָתַר": [
+    "III-guttural"
+  ],
+  "נָקַם": [
+    "I-nun"
+  ],
+  "נָכָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָשַׁב": [
+    "I-yod"
+  ],
+  "תָּפַשׂ": [
+    "strong"
+  ],
+  "לָטַשׁ": [
+    "strong"
+  ],
+  "חֹרֵשׁ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "אָזַן": [
+    "I-aleph"
+  ],
+  "חָלַל": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "חָיָה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָחַם": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "רָבַב": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "בָּחַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דון": [
+    "hollow"
+  ],
+  "עָצַב": [
+    "I-guttural"
+  ],
+  "מָחָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁחַת": [
+    "II-guttural"
+  ],
+  "כָּפַר": [
+    "III-guttural"
+  ],
+  "גָּוַע": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָסַף": [
+    "I-aleph"
+  ],
+  "בָּקַע": [
+    "III-guttural"
+  ],
+  "פָּתַח": [
+    "III-guttural"
+  ],
+  "רוּם": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "גָּבַר": [
+    "III-guttural"
+  ],
+  "כָּסָה": [
+    "III-he"
+  ],
+  "שָׁאַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "זָכַר": [
+    "III-guttural"
+  ],
+  "עָבַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁכַךְ": [
+    "strong"
+  ],
+  "סָכַר": [
+    "III-guttural"
+  ],
+  "כָּלָא": [
+    "III-aleph"
+  ],
+  "חָסֵר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נוּחַ": [
+    "I-nun",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָבֵשׁ": [
+    "I-yod"
+  ],
+  "קָלַל": [
+    "geminate"
+  ],
+  "חיל": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "יָחַל": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חָרֵב": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "סוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דָבַר": [
+    "III-guttural"
+  ],
+  "רוח": [
+    "I-guttural",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דָּרַשׁ": [
+    "II-guttural"
+  ],
+  "שָׁפַךְ": [
+    "strong"
+  ],
+  "כָּרַת": [
+    "II-guttural"
+  ],
+  "עָנַן": [
+    "I-guttural"
+  ],
+  "נָפַץ": [
+    "I-nun"
+  ],
+  "שָׁתָה": [
+    "III-he"
+  ],
+  "שָׁכַר": [
+    "III-guttural"
+  ],
+  "גָּלָה": [
+    "III-he"
+  ],
+  "יָקַץ": [
+    "I-yod"
+  ],
+  "פָּתָה": [
+    "III-he"
+  ],
+  "פּוּץ": [
+    "hollow"
+  ],
+  "פָּלַג": [
+    "strong"
+  ],
+  "נָסַע": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָהַב": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "לָבַן": [
+    "strong"
+  ],
+  "שָׂרַף": [
+    "II-guttural"
+  ],
+  "יָרַד": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "בָּצַר": [
+    "III-guttural"
+  ],
+  "זָמַם": [
+    "strong"
+  ],
+  "בָּלַל": [
+    "geminate"
+  ],
+  "חָדַל": [
+    "I-guttural"
+  ],
+  "גָּדַל": [
+    "strong"
+  ],
+  "רָכַשׁ": [
+    "I-guttural"
+  ],
+  "עָתַק": [
+    "I-guttural"
+  ],
+  "נָטָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גּוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "קָרַב": [
+    "II-guttural"
+  ],
+  "הָלַל": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "יָכֹל": [
+    "I-yod"
+  ],
+  "רעה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָמַן": [
+    "I-yod"
+  ],
+  "שִׂמְאֵל": [
+    "III-aleph"
+  ],
+  "אָהַל": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "מָנָה": [
+    "III-he"
+  ],
+  "חָבַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מָרַד": [
+    "II-guttural"
+  ],
+  "עָרַךְ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נוּס": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "שָׁבָה": [
+    "III-he"
+  ],
+  "רִיק": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רָדַף": [
+    "I-guttural"
+  ],
+  "חָלַק": [
+    "I-guttural"
+  ],
+  "קרא": [
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "מָגַן": [
+    "strong"
+  ],
+  "עָשַׁר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָרַשׁ": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָבַט": [
+    "I-nun"
+  ],
+  "סָפַר": [
+    "III-guttural"
+  ],
+  "אָמַן": [
+    "I-aleph"
+  ],
+  "חָשַׁב": [
+    "I-guttural"
+  ],
+  "שָׁלַשׁ": [
+    "strong"
+  ],
+  "בָּתַר": [
+    "III-guttural"
+  ],
+  "נָשַׁב": [
+    "I-nun"
+  ],
+  "עָנָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "דִּין": [
+    "hollow"
+  ],
+  "קָבַר": [
+    "III-guttural"
+  ],
+  "עָצַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁפַט": [
+    "strong"
+  ],
+  "בָּרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מוּל": [
+    "hollow"
+  ],
+  "מלל": [
+    "geminate"
+  ],
+  "פָּרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "צָחַק": [
+    "II-guttural"
+  ],
+  "נָצַב": [
+    "I-nun"
+  ],
+  "רוּץ": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "חוה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָחַץ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "שָׁעַן": [
+    "II-guttural"
+  ],
+  "סָעַד": [
+    "II-guttural"
+  ],
+  "מָהַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "לוּשׁ": [
+    "hollow"
+  ],
+  "עָמַד": [
+    "I-guttural"
+  ],
+  "בָּלָה": [
+    "III-he"
+  ],
+  "זָקֵן": [
+    "strong"
+  ],
+  "פָּלָא": [
+    "III-aleph"
+  ],
+  "כָּחַשׁ": [
+    "II-guttural"
+  ],
+  "שָׁקַף": [
+    "strong"
+  ],
+  "רבב": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "כָּבֵד": [
+    "strong"
+  ],
+  "פָּנָה": [
+    "III-he"
+  ],
+  "נָגַשׁ": [
+    "I-nun"
+  ],
+  "סָפָה": [
+    "III-he"
+  ],
+  "יָאַל": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "לין": [
+    "hollow"
+  ],
+  "שָׁכַם": [
+    "strong"
+  ],
+  "פָּצַר": [
+    "III-guttural"
+  ],
+  "אָפָה": [
+    "I-aleph",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁכַב": [
+    "strong"
+  ],
+  "רָעַע": [
+    "I-guttural",
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "שָׁבַר": [
+    "III-guttural"
+  ],
+  "לָאָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אוּץ": [
+    "I-aleph",
+    "hollow",
+    "doubly-weak"
+  ],
+  "מָהַהּ": [
+    "II-guttural",
+    "III-he",
+    "geminate",
+    "doubly-weak"
+  ],
+  "חָזַק": [
+    "I-guttural"
+  ],
+  "מָלַט": [
+    "strong"
+  ],
+  "בָּעַל": [
+    "II-guttural"
+  ],
+  "חָשַׂךְ": [
+    "I-guttural"
+  ],
+  "חָטָא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "פָּלַל": [
+    "geminate"
+  ],
+  "תָּעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָכַח": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָפָא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "פָּקַד": [
+    "strong"
+  ],
+  "מָלַל": [
+    "geminate"
+  ],
+  "יָנַק": [
+    "I-yod"
+  ],
+  "גָּמַל": [
+    "strong"
+  ],
+  "שָׁלַךְ": [
+    "strong"
+  ],
+  "רָחַק": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "טָחָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "בָּכָה": [
+    "III-he"
+  ],
+  "שָׁבַע": [
+    "III-guttural"
+  ],
+  "שָׁקַר": [
+    "III-guttural"
+  ],
+  "גָּזַל": [
+    "strong"
+  ],
+  "חָפַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָסָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אָהֵב": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חָבַשׁ": [
+    "I-guttural"
+  ],
+  "עָקַד": [
+    "I-guttural"
+  ],
+  "שָׁחַט": [
+    "II-guttural"
+  ],
+  "אָחַז": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "אָיַב": [
+    "I-aleph",
+    "hollow",
+    "doubly-weak"
+  ],
+  "סָפַד": [
+    "strong"
+  ],
+  "פָּגַע": [
+    "III-guttural"
+  ],
+  "שָׁקַל": [
+    "strong"
+  ],
+  "סָחַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָבָה": [
+    "I-aleph",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָקָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁאַב": [
+    "II-guttural"
+  ],
+  "קָרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גָּמָא": [
+    "III-aleph"
+  ],
+  "עָרָה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁאָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָרֵשׁ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "צָלֵחַ": [
+    "III-guttural"
+  ],
+  "קָדַד": [
+    "geminate"
+  ],
+  "נָחָה": [
+    "I-nun",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁאַל": [
+    "II-guttural"
+  ],
+  "אָחַר": [
+    "I-aleph",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מֵינֶקֶת": [
+    "hollow"
+  ],
+  "שָׂנֵא": [
+    "III-aleph"
+  ],
+  "רָכַב": [
+    "I-guttural"
+  ],
+  "שׂוּחַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָתַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָצַץ": [
+    "I-guttural"
+  ],
+  "אָמֵץ": [
+    "I-aleph"
+  ],
+  "זִיד": [
+    "hollow"
+  ],
+  "לָעַט": [
+    "II-guttural"
+  ],
+  "מָכַר": [
+    "III-guttural"
+  ],
+  "בָּזָה": [
+    "III-he"
+  ],
+  "אָרַךְ": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "גָּדֵל": [
+    "strong"
+  ],
+  "קָנָא": [
+    "III-aleph"
+  ],
+  "סָתַם": [
+    "strong"
+  ],
+  "עָצֹם": [
+    "I-guttural"
+  ],
+  "חָנָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רִיב": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "עָשַׂק": [
+    "I-guttural"
+  ],
+  "רָחַב": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "כָּרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "כָּהָה": [
+    "II-guttural",
+    "III-he",
+    "geminate",
+    "doubly-weak"
+  ],
+  "צוּד": [
+    "hollow"
+  ],
+  "מָשַׁשׁ": [
+    "geminate"
+  ],
+  "תָּעַע": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "מוּשׁ": [
+    "hollow"
+  ],
+  "נָכַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָשַׁק": [
+    "I-nun"
+  ],
+  "הָוָה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָרַד": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "עָקַב": [
+    "I-guttural"
+  ],
+  "אָצַל": [
+    "I-aleph"
+  ],
+  "סָמַךְ": [
+    "strong"
+  ],
+  "רדד": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "פָּרַק": [
+    "II-guttural"
+  ],
+  "שָׂטַם": [
+    "strong"
+  ],
+  "שָׁכַח": [
+    "III-guttural"
+  ],
+  "שָׁכֹל": [
+    "strong"
+  ],
+  "קוּץ": [
+    "hollow"
+  ],
+  "חָלַם": [
+    "I-guttural"
+  ],
+  "פָּרַץ": [
+    "II-guttural"
+  ],
+  "יָצַק": [
+    "I-yod"
+  ],
+  "נָדַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָשַׂר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "גָּלַל": [
+    "geminate"
+  ],
+  "חָבַק": [
+    "I-guttural"
+  ],
+  "רָמָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "לָוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָדָה": [
+    "I-yod",
+    "III-he",
+    "doubly-weak"
+  ],
+  "מָנַע": [
+    "III-guttural"
+  ],
+  "פָּתַל": [
+    "strong"
+  ],
+  "אָשַׁר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׂכַר": [
+    "III-guttural"
+  ],
+  "זָבַד": [
+    "strong"
+  ],
+  "זָבַל": [
+    "strong"
+  ],
+  "נָחַשׁ": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָקַב": [
+    "I-nun"
+  ],
+  "טָלָא": [
+    "III-aleph"
+  ],
+  "גָּנַב": [
+    "strong"
+  ],
+  "יָתַר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "פָּצַל": [
+    "strong"
+  ],
+  "יָצַג": [
+    "I-yod"
+  ],
+  "יָחַם": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "קָשַׁר": [
+    "III-guttural"
+  ],
+  "עָטַף": [
+    "I-guttural"
+  ],
+  "עָטוּף": [
+    "I-guttural"
+  ],
+  "תָּלַל": [
+    "geminate"
+  ],
+  "חָלַף": [
+    "I-guttural"
+  ],
+  "נָצַל": [
+    "I-nun"
+  ],
+  "מָשַׁח": [
+    "III-guttural"
+  ],
+  "נָהַג": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "גָּזַז": [
+    "geminate"
+  ],
+  "נָשַׂג": [
+    "I-nun"
+  ],
+  "תָּקַע": [
+    "III-guttural"
+  ],
+  "נָטַשׁ": [
+    "I-nun"
+  ],
+  "סָכַל": [
+    "strong"
+  ],
+  "כָּסַף": [
+    "strong"
+  ],
+  "חָפַשׂ": [
+    "I-guttural"
+  ],
+  "דָּלַק": [
+    "strong"
+  ],
+  "בָּקַשׁ": [
+    "strong"
+  ],
+  "נָדַד": [
+    "I-nun",
+    "geminate",
+    "doubly-weak"
+  ],
+  "לָקַט": [
+    "strong"
+  ],
+  "צָפָה": [
+    "III-he"
+  ],
+  "יָרָה": [
+    "I-yod",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "זָבַח": [
+    "III-guttural"
+  ],
+  "צרר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "חָצָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "קָטֹן": [
+    "strong"
+  ],
+  "פָּגַשׁ": [
+    "strong"
+  ],
+  "כִּפֶּר": [
+    "III-guttural"
+  ],
+  "אָבַק": [
+    "I-aleph"
+  ],
+  "יָקַע": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׂרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "זָרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צָלַע": [
+    "III-guttural"
+  ],
+  "חָנַן": [
+    "I-guttural"
+  ],
+  "רָצָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עוּל": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "דָּפַק": [
+    "strong"
+  ],
+  "נָהַל": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "טָמֵא": [
+    "III-aleph"
+  ],
+  "חָשַׁק": [
+    "I-guttural"
+  ],
+  "חָתַן": [
+    "I-guttural"
+  ],
+  "אוּת": [
+    "I-aleph",
+    "hollow",
+    "doubly-weak"
+  ],
+  "חָפֵץ": [
+    "I-guttural"
+  ],
+  "כָּאַב": [
+    "II-guttural"
+  ],
+  "בָּזַז": [
+    "geminate"
+  ],
+  "עָכַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "בָּאַשׁ": [
+    "II-guttural"
+  ],
+  "שָׁמַד": [
+    "strong"
+  ],
+  "זָנָה": [
+    "III-he"
+  ],
+  "טָהֵר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "טָמַן": [
+    "strong"
+  ],
+  "נָסַךְ": [
+    "I-nun"
+  ],
+  "קָשָׁה": [
+    "III-he"
+  ],
+  "מָלַךְ": [
+    "strong"
+  ],
+  "אָלַם": [
+    "I-aleph"
+  ],
+  "גָּעַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָכַל": [
+    "I-nun"
+  ],
+  "פָּשַׁט": [
+    "strong"
+  ],
+  "מָשַׁךְ": [
+    "strong"
+  ],
+  "קָרַע": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "טָבַל": [
+    "strong"
+  ],
+  "טָרַף": [
+    "II-guttural"
+  ],
+  "אָבַל": [
+    "I-aleph"
+  ],
+  "מָאֵן": [
+    "II-guttural"
+  ],
+  "יָבַם": [
+    "I-yod"
+  ],
+  "עָלַף": [
+    "I-guttural"
+  ],
+  "צָדֵק": [
+    "strong"
+  ],
+  "שָׁרַת": [
+    "II-guttural"
+  ],
+  "אָסַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "קָצַף": [
+    "strong"
+  ],
+  "זָעַף": [
+    "II-guttural"
+  ],
+  "פָּתַר": [
+    "III-guttural"
+  ],
+  "פָּרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "בָּשַׁל": [
+    "strong"
+  ],
+  "שָׂחַט": [
+    "II-guttural"
+  ],
+  "תָּלָה": [
+    "III-he"
+  ],
+  "שָׁדַף": [
+    "strong"
+  ],
+  "בָּלַע": [
+    "III-guttural"
+  ],
+  "פָּעַם": [
+    "II-guttural"
+  ],
+  "גָּלַח": [
+    "III-guttural"
+  ],
+  "צָנַם": [
+    "strong"
+  ],
+  "שָׁנָה": [
+    "III-he"
+  ],
+  "כּוּן": [
+    "hollow"
+  ],
+  "בִּין": [
+    "hollow"
+  ],
+  "חָמַשׁ": [
+    "I-guttural"
+  ],
+  "קָבַץ": [
+    "strong"
+  ],
+  "צָבַר": [
+    "III-guttural"
+  ],
+  "נָשָׁה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָעֵב": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "רָגַל": [
+    "I-guttural"
+  ],
+  "בָּחַן": [
+    "II-guttural"
+  ],
+  "לִיץ": [
+    "hollow"
+  ],
+  "עוּד": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "עָרַב": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "טָבַח": [
+    "III-guttural"
+  ],
+  "כָּמַר": [
+    "III-guttural"
+  ],
+  "אָפַק": [
+    "I-aleph"
+  ],
+  "תָּמַהּ": [
+    "III-he"
+  ],
+  "שָׁלֵם": [
+    "strong"
+  ],
+  "עָמַס": [
+    "I-guttural"
+  ],
+  "בָּהַל": [
+    "II-guttural"
+  ],
+  "כּוּל": [
+    "hollow"
+  ],
+  "טָעַן": [
+    "II-guttural"
+  ],
+  "חוּס": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רָגַז": [
+    "I-guttural"
+  ],
+  "פּוּג": [
+    "hollow"
+  ],
+  "יָלַהּ": [
+    "I-yod",
+    "III-he",
+    "doubly-weak"
+  ],
+  "תָּמַם": [
+    "strong"
+  ],
+  "אָפֵס": [
+    "I-aleph"
+  ],
+  "כָּחַד": [
+    "II-guttural"
+  ],
+  "יָשַׁם": [
+    "I-yod"
+  ],
+  "חָלָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גָּאַל": [
+    "II-guttural"
+  ],
+  "דָּגָה": [
+    "III-he"
+  ],
+  "תָּמַךְ": [
+    "strong"
+  ],
+  "יָחַד": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "עִקֵּר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּרַע": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָקַק": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "כָּבַס": [
+    "strong"
+  ],
+  "נָעֵם": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "סָבַל": [
+    "strong"
+  ],
+  "נָשַׁךְ": [
+    "I-nun"
+  ],
+  "גּוּד": [
+    "hollow"
+  ],
+  "פֹּרָת": [
+    "II-guttural"
+  ],
+  "צָעַד": [
+    "II-guttural"
+  ],
+  "מָרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "פָּזַז": [
+    "geminate"
+  ],
+  "עָזַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָנַט": [
+    "I-guttural"
+  ],
+  "יָשַׂם": [
+    "I-yod"
+  ],
+  "חָכַם": [
+    "I-guttural"
+  ],
+  "לָחַם": [
+    "II-guttural"
+  ],
+  "צָפַן": [
+    "strong"
+  ],
+  "חָמַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָצַב": [
+    "I-yod"
+  ],
+  "חָמַל": [
+    "I-guttural"
+  ],
+  "ינק": [
+    "I-yod"
+  ],
+  "מָשָׁה": [
+    "III-he"
+  ],
+  "נָצָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "דָּלָה": [
+    "III-he"
+  ],
+  "יָשַׁע": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָנַח": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "זָעַק": [
+    "II-guttural"
+  ],
+  "חֹתֵן": [
+    "I-guttural"
+  ],
+  "בָּעַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָשַׁל": [
+    "I-nun"
+  ],
+  "נָגַשׂ": [
+    "I-nun"
+  ],
+  "זוּב": [
+    "hollow"
+  ],
+  "לָחַץ": [
+    "II-guttural"
+  ],
+  "צָרַע": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׂמַח": [
+    "III-guttural"
+  ],
+  "רָפָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָגַג": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "פָּרַע": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שֹׁטֵר": [
+    "III-guttural"
+  ],
+  "קָשַׁשׁ": [
+    "geminate"
+  ],
+  "גָּרַע": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּשַׁף": [
+    "strong"
+  ],
+  "נָגַף": [
+    "I-nun"
+  ],
+  "פָּאַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "פָּלָה": [
+    "III-he"
+  ],
+  "סָקַל": [
+    "strong"
+  ],
+  "זָרַק": [
+    "II-guttural"
+  ],
+  "סָלַל": [
+    "geminate"
+  ],
+  "יָסַד": [
+    "I-yod"
+  ],
+  "עוּז": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "פָּרַשׂ": [
+    "II-guttural"
+  ],
+  "נָתַךְ": [
+    "I-nun"
+  ],
+  "עָלַל": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "אָבַד": [
+    "I-aleph"
+  ],
+  "חָשַׁךְ": [
+    "I-guttural"
+  ],
+  "חָרַץ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "מָעַט": [
+    "II-guttural"
+  ],
+  "כָּסַס": [
+    "geminate"
+  ],
+  "חָגַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "פָּסַח": [
+    "III-guttural"
+  ],
+  "חמץ": [
+    "I-guttural"
+  ],
+  "חָמֵץ": [
+    "I-guttural"
+  ],
+  "צָרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "פָּדָה": [
+    "III-he"
+  ],
+  "עָרַף": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חמשׁ": [
+    "I-guttural"
+  ],
+  "בּוּךְ": [
+    "hollow"
+  ],
+  "הָמַם": [
+    "I-guttural"
+  ],
+  "נָעַר": [
+    "I-nun",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שִׁיר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "גָּאָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָוָה": [
+    "I-nun",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "טָבַע": [
+    "III-guttural"
+  ],
+  "אָדַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָעַץ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "הָרַס": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "עָרַם": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָזַל": [
+    "I-nun"
+  ],
+  "קָפָא": [
+    "III-aleph"
+  ],
+  "נָשַׁף": [
+    "I-nun"
+  ],
+  "צָלַל": [
+    "geminate"
+  ],
+  "מוּג": [
+    "hollow"
+  ],
+  "דָּמַם": [
+    "strong"
+  ],
+  "פָּעַל": [
+    "II-guttural"
+  ],
+  "לוּן": [
+    "hollow"
+  ],
+  "מָתֹק": [
+    "strong"
+  ],
+  "שָׂבֵעַ": [
+    "III-guttural"
+  ],
+  "לון": [
+    "hollow"
+  ],
+  "חַסְפַּס": [
+    "I-guttural"
+  ],
+  "מָדַד": [
+    "geminate"
+  ],
+  "עָדַף": [
+    "I-guttural"
+  ],
+  "רָמַם": [
+    "I-guttural"
+  ],
+  "חָמַם": [
+    "I-guttural"
+  ],
+  "מָסַס": [
+    "geminate"
+  ],
+  "צָמֵא": [
+    "III-aleph"
+  ],
+  "חָלַשׁ": [
+    "I-guttural"
+  ],
+  "כָּתַב": [
+    "strong"
+  ],
+  "חָדָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָבֵל": [
+    "I-nun"
+  ],
+  "יָעַץ": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "זָהַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָזָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גָּבַל": [
+    "strong"
+  ],
+  "עָשַׁן": [
+    "I-guttural"
+  ],
+  "רָצַח": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָאַף": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נוּף": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רָצַע": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָעַד": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "בָּגַד": [
+    "strong"
+  ],
+  "צָדָה": [
+    "III-he"
+  ],
+  "אָנָה": [
+    "I-aleph",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עָנַשׁ": [
+    "I-guttural"
+  ],
+  "נָגַח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָשַׁע": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָרַשׂ": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חָרַם": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "יָנָה": [
+    "I-yod",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נשׁא": [
+    "I-nun",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "חָבַל": [
+    "I-guttural"
+  ],
+  "הָדַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָוַר": [
+    "I-guttural",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָלַף": [
+    "strong"
+  ],
+  "שָׁמַט": [
+    "strong"
+  ],
+  "נָפַשׁ": [
+    "I-nun"
+  ],
+  "מרה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָחַל": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָדַב": [
+    "I-nun"
+  ],
+  "אָדֹם": [
+    "I-aleph"
+  ],
+  "סָכַךְ": [
+    "strong"
+  ],
+  "מְשֻׁקָּד": [
+    "strong"
+  ],
+  "שָׁזַר": [
+    "III-guttural"
+  ],
+  "קָבַל": [
+    "strong"
+  ],
+  "כָּפַל": [
+    "strong"
+  ],
+  "סָרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָרוּחַ": [
+    "II-guttural"
+  ],
+  "שָׁלַב": [
+    "strong"
+  ],
+  "קצע": [
+    "III-guttural"
+  ],
+  "רָקַם": [
+    "I-guttural"
+  ],
+  "רָבַע": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דָּשֵׁן": [
+    "strong"
+  ],
+  "נָבַב": [
+    "I-nun",
+    "geminate",
+    "doubly-weak"
+  ],
+  "כָּהַן": [
+    "II-guttural"
+  ],
+  "סבב": [
+    "geminate"
+  ],
+  "שָׁבַץ": [
+    "strong"
+  ],
+  "רָכַס": [
+    "I-guttural"
+  ],
+  "זָחַח": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "אָרַג": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "אָפַד": [
+    "I-aleph"
+  ],
+  "קָטַר": [
+    "III-guttural"
+  ],
+  "נָתַח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָזָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָקַח": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָסַךְ": [
+    "I-yod"
+  ],
+  "מָלַח": [
+    "III-guttural"
+  ],
+  "שָׁחַק": [
+    "II-guttural"
+  ],
+  "דָּקַק": [
+    "geminate"
+  ],
+  "קָהַל": [
+    "II-guttural"
+  ],
+  "צור": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מַהֵר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָרַת": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "טָחַן": [
+    "II-guttural"
+  ],
+  "זָרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָחַם": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "שָׂכַךְ": [
+    "strong"
+  ],
+  "פָּסַל": [
+    "strong"
+  ],
+  "נָצַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָלַח": [
+    "III-guttural"
+  ],
+  "נָתַץ": [
+    "I-nun"
+  ],
+  "קָרַן": [
+    "II-guttural"
+  ],
+  "טָוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "צָבָא": [
+    "III-aleph"
+  ],
+  "פקד": [
+    "strong"
+  ],
+  "רָקַע": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "קָצַץ": [
+    "strong"
+  ],
+  "מָלַק": [
+    "strong"
+  ],
+  "מָצָה": [
+    "III-he"
+  ],
+  "שָׁסַע": [
+    "III-guttural"
+  ],
+  "קָמַץ": [
+    "strong"
+  ],
+  "פָּתַת": [
+    "geminate"
+  ],
+  "קָלָה": [
+    "III-he"
+  ],
+  "שָׁגָה": [
+    "III-he"
+  ],
+  "עָלַם": [
+    "I-guttural"
+  ],
+  "אָשַׁם": [
+    "I-aleph"
+  ],
+  "בטא": [
+    "III-aleph"
+  ],
+  "מָעַל": [
+    "II-guttural"
+  ],
+  "שָׁגַג": [
+    "geminate"
+  ],
+  "עָשַׁק": [
+    "I-guttural"
+  ],
+  "יָקַד": [
+    "I-yod"
+  ],
+  "כָּבָה": [
+    "III-he"
+  ],
+  "רָבַךְ": [
+    "I-guttural"
+  ],
+  "מָרַק": [
+    "II-guttural"
+  ],
+  "שָׁטַף": [
+    "strong"
+  ],
+  "רָנַן": [
+    "I-guttural"
+  ],
+  "פָּרַם": [
+    "II-guttural"
+  ],
+  "פָּרַס": [
+    "II-guttural"
+  ],
+  "גָּרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "שִׁקֵּץ": [
+    "strong"
+  ],
+  "נָתַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שֶׁסַע": [
+    "III-guttural"
+  ],
+  "דָּוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "פָּשָׂה": [
+    "III-he"
+  ],
+  "כֵּהֶה": [
+    "II-guttural",
+    "III-he",
+    "geminate",
+    "doubly-weak"
+  ],
+  "בָּקַר": [
+    "III-guttural"
+  ],
+  "מָרַט": [
+    "II-guttural"
+  ],
+  "עָטָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "מָאַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָלַץ": [
+    "I-guttural"
+  ],
+  "קָצַע": [
+    "III-guttural"
+  ],
+  "קָצָה": [
+    "III-he"
+  ],
+  "טוּחַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רִיר": [
+    "I-guttural",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָתַם": [
+    "I-guttural"
+  ],
+  "רָקַק": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "זוֹב": [
+    "hollow"
+  ],
+  "נָזַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צָנַף": [
+    "strong"
+  ],
+  "קִיא": [
+    "hollow",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "קָצַר": [
+    "III-guttural"
+  ],
+  "נָטַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָרַף": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חָפַשׁ": [
+    "I-guttural"
+  ],
+  "עָרַל": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָקַף": [
+    "I-nun"
+  ],
+  "רָגַם": [
+    "I-guttural"
+  ],
+  "קָרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׂרַט": [
+    "II-guttural"
+  ],
+  "שָׂרַע": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָרוּץ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "קָלַט": [
+    "strong"
+  ],
+  "מָעַךְ": [
+    "II-guttural"
+  ],
+  "כָּתַת": [
+    "geminate"
+  ],
+  "נָתַק": [
+    "I-nun"
+  ],
+  "פָּרַשׁ": [
+    "II-guttural"
+  ],
+  "זָמַר": [
+    "III-guttural"
+  ],
+  "מוּךְ": [
+    "hollow"
+  ],
+  "תמם": [
+    "strong"
+  ],
+  "מוֹט": [
+    "hollow"
+  ],
+  "גָּעַל": [
+    "II-guttural"
+  ],
+  "מָאַס": [
+    "II-guttural"
+  ],
+  "דּוּב": [
+    "hollow"
+  ],
+  "יָסַר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁמֵם": [
+    "strong"
+  ],
+  "נָדַף": [
+    "I-nun"
+  ],
+  "כָּשַׁל": [
+    "strong"
+  ],
+  "מָקַק": [
+    "geminate"
+  ],
+  "כָּנַע": [
+    "III-guttural"
+  ],
+  "מוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "בָּכַר": [
+    "III-guttural"
+  ],
+  "שָׂטָה": [
+    "III-he"
+  ],
+  "צָבָה": [
+    "III-he"
+  ],
+  "רוּעַ": [
+    "I-guttural",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "תּוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָנַן": [
+    "I-aleph"
+  ],
+  "שָׁקַע": [
+    "III-guttural"
+  ],
+  "אָוָה": [
+    "I-aleph",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שׁוּט": [
+    "hollow"
+  ],
+  "דּוּךְ": [
+    "hollow"
+  ],
+  "טוֹב": [
+    "hollow"
+  ],
+  "קָצֵר": [
+    "III-guttural"
+  ],
+  "נָבָא": [
+    "I-nun",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "גּוּז": [
+    "hollow"
+  ],
+  "שָׁטַח": [
+    "III-guttural"
+  ],
+  "יָרַק": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "כָּלַם": [
+    "strong"
+  ],
+  "הסה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָאַץ": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "עָפַל": [
+    "I-guttural"
+  ],
+  "שׁגג": [
+    "geminate"
+  ],
+  "רום": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "גָּדַף": [
+    "strong"
+  ],
+  "שָׂרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "נָקַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָמֹם": [
+    "I-guttural"
+  ],
+  "צוּץ": [
+    "hollow"
+  ],
+  "פְּדוּיִם": [
+    "strong"
+  ],
+  "מָרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "לָכַד": [
+    "strong"
+  ],
+  "לָחַךְ": [
+    "II-guttural"
+  ],
+  "קָבַב": [
+    "geminate"
+  ],
+  "שָׁלַף": [
+    "strong"
+  ],
+  "סָכַן": [
+    "strong"
+  ],
+  "יָרַט": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "זָעַם": [
+    "II-guttural"
+  ],
+  "קבב": [
+    "geminate"
+  ],
+  "שׁוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צפה": [
+    "III-he"
+  ],
+  "כָּזַב": [
+    "strong"
+  ],
+  "יָשַׁר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁתַם": [
+    "strong"
+  ],
+  "גָּרַם": [
+    "II-guttural"
+  ],
+  "מָחַץ": [
+    "II-guttural"
+  ],
+  "סָפַק": [
+    "strong"
+  ],
+  "דָּרַךְ": [
+    "II-guttural"
+  ],
+  "קַרְקַר": [
+    "II-guttural"
+  ],
+  "צָמַד": [
+    "strong"
+  ],
+  "דָּקַר": [
+    "III-guttural"
+  ],
+  "נוּא": [
+    "I-nun",
+    "hollow",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "מָסַר": [
+    "III-guttural"
+  ],
+  "חוּשׁ": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "דָּמָה": [
+    "III-he"
+  ],
+  "תָּאָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "הָדַף": [
+    "I-guttural"
+  ],
+  "חָנֵף": [
+    "I-guttural"
+  ],
+  "בָּאַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָתַת": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "רָגַן": [
+    "I-guttural"
+  ],
+  "עָרַץ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "אָנַף": [
+    "I-aleph"
+  ],
+  "הוּן": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "גָּרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "צוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׂגַב": [
+    "strong"
+  ],
+  "לָמַד": [
+    "strong"
+  ],
+  "נָדַח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּעַס": [
+    "II-guttural"
+  ],
+  "שָׁנַן": [
+    "strong"
+  ],
+  "חָצַב": [
+    "I-guttural"
+  ],
+  "גָּדַע": [
+    "III-guttural"
+  ],
+  "אהב": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "הום": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "יָקֹשׁ": [
+    "I-yod"
+  ],
+  "תַּעָב": [
+    "II-guttural"
+  ],
+  "בָּצֵק": [
+    "strong"
+  ],
+  "יָגֹר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צוּף": [
+    "hollow"
+  ],
+  "שֵׁכֶן": [
+    "strong"
+  ],
+  "נָקַשׁ": [
+    "I-nun"
+  ],
+  "סוּת": [
+    "hollow"
+  ],
+  "חָקַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "גָּדַד": [
+    "geminate"
+  ],
+  "עָבַט": [
+    "I-guttural"
+  ],
+  "קָפַץ": [
+    "strong"
+  ],
+  "עָנַק": [
+    "I-guttural"
+  ],
+  "קֶסֶם": [
+    "strong"
+  ],
+  "קָסַם": [
+    "strong"
+  ],
+  "חָטַב": [
+    "I-guttural"
+  ],
+  "חמם": [
+    "I-guttural"
+  ],
+  "אָרַב": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "סוּג": [
+    "hollow"
+  ],
+  "רָכַךְ": [
+    "I-guttural"
+  ],
+  "חָפַז": [
+    "I-guttural"
+  ],
+  "חָנַךְ": [
+    "I-guttural"
+  ],
+  "שָׁלַם": [
+    "strong"
+  ],
+  "עָמַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "זָלַל": [
+    "geminate"
+  ],
+  "סֹבֶא": [
+    "III-aleph"
+  ],
+  "חָרַשׁ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "פָּצַע": [
+    "III-guttural"
+  ],
+  "קָדַם": [
+    "strong"
+  ],
+  "קָטַף": [
+    "strong"
+  ],
+  "חָבַט": [
+    "I-guttural"
+  ],
+  "פִּאֵר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָסַם": [
+    "I-guttural"
+  ],
+  "דּוּשׁ": [
+    "hollow"
+  ],
+  "זָנַב": [
+    "strong"
+  ],
+  "חָשַׁל": [
+    "I-guttural"
+  ],
+  "שִׂיד": [
+    "hollow"
+  ],
+  "סָכַת": [
+    "strong"
+  ],
+  "שָׁגַע": [
+    "III-guttural"
+  ],
+  "חָסַל": [
+    "I-guttural"
+  ],
+  "אָגַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סוּךְ": [
+    "hollow"
+  ],
+  "דָּאָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "בָּטַח": [
+    "III-guttural"
+  ],
+  "צוּק": [
+    "hollow"
+  ],
+  "עָנֹג": [
+    "I-guttural"
+  ],
+  "שׂוּשׂ": [
+    "hollow"
+  ],
+  "נָסַח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָגַע": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "תָּלָא": [
+    "III-aleph"
+  ],
+  "פָּחַד": [
+    "II-guttural"
+  ],
+  "נָתַשׁ": [
+    "I-nun"
+  ],
+  "עוּר": [
+    "I-guttural",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁמֵן": [
+    "strong"
+  ],
+  "בָּעַט": [
+    "II-guttural"
+  ],
+  "עָבָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "כָּשָׂה": [
+    "III-he"
+  ],
+  "נָבַל": [
+    "I-nun"
+  ],
+  "שָׂעַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁיָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "קָדַח": [
+    "III-guttural"
+  ],
+  "לָהַט": [
+    "II-guttural"
+  ],
+  "זָחַל": [
+    "II-guttural"
+  ],
+  "פָּאָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "כָּמַס": [
+    "strong"
+  ],
+  "אָזַל": [
+    "I-aleph"
+  ],
+  "חָסָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָפַע": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָתָה": [
+    "I-aleph",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָבַב": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "תָּכָה": [
+    "III-he"
+  ],
+  "ריב": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "חׇפַף": [
+    "I-guttural"
+  ],
+  "שָׂפַן": [
+    "strong"
+  ],
+  "סָפַן": [
+    "strong"
+  ],
+  "זָנַק": [
+    "strong"
+  ],
+  "הָגָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חבא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "יָגֵעַ": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָצַת": [
+    "I-yod"
+  ],
+  "צָיַר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "ציד": [
+    "hollow"
+  ],
+  "שָׂרַד": [
+    "II-guttural"
+  ],
+  "שָׁקַט": [
+    "strong"
+  ],
+  "מָסָה": [
+    "III-he"
+  ],
+  "תָּאַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צָנַח": [
+    "III-guttural"
+  ],
+  "שָׁסָה": [
+    "III-he"
+  ],
+  "שָׁסַס": [
+    "geminate"
+  ],
+  "דָּחַק": [
+    "II-guttural"
+  ],
+  "ידע": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָזַז": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "נָעַל": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "רָדַם": [
+    "I-guttural"
+  ],
+  "עיף": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רָזַן": [
+    "I-guttural"
+  ],
+  "רָעַשׁ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָטַף": [
+    "I-nun"
+  ],
+  "זלל": [
+    "geminate"
+  ],
+  "שִׂיחַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָצַץ": [
+    "I-guttural"
+  ],
+  "תָּנָה": [
+    "III-he"
+  ],
+  "גָּרַף": [
+    "II-guttural"
+  ],
+  "הָלַם": [
+    "I-guttural"
+  ],
+  "מָחַק": [
+    "II-guttural"
+  ],
+  "שָׁדַד": [
+    "geminate"
+  ],
+  "יָבַב": [
+    "I-yod",
+    "geminate",
+    "doubly-weak"
+  ],
+  "דָּלַל": [
+    "geminate"
+  ],
+  "זוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צָפַר": [
+    "III-guttural"
+  ],
+  "צָרַף": [
+    "II-guttural"
+  ],
+  "לָקַק": [
+    "geminate"
+  ],
+  "פָּחַז": [
+    "II-guttural"
+  ],
+  "מֻצָּב": [
+    "strong"
+  ],
+  "שׂרר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "שָׁאַג": [
+    "II-guttural"
+  ],
+  "צָלַח": [
+    "III-guttural"
+  ],
+  "חוּד": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "אָלַץ": [
+    "I-aleph"
+  ],
+  "אֵסוּר": [
+    "I-aleph"
+  ],
+  "שָׂחַק": [
+    "II-guttural"
+  ],
+  "משׁשׁ": [
+    "geminate"
+  ],
+  "לָפַת": [
+    "strong"
+  ],
+  "אָלָה": [
+    "I-aleph",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָשָׁה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עָצֵל": [
+    "I-guttural"
+  ],
+  "רָדַד": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "אָרַח": [
+    "I-aleph",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עוּץ": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "קָלַע": [
+    "III-guttural"
+  ],
+  "צוּם": [
+    "hollow"
+  ],
+  "גִּיחַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּתַר": [
+    "III-guttural"
+  ],
+  "חוּל": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "חָטַף": [
+    "I-guttural"
+  ],
+  "שָׂבַר": [
+    "III-guttural"
+  ],
+  "עָגַן": [
+    "I-guttural"
+  ],
+  "הוּם": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "צָבַט": [
+    "strong"
+  ],
+  "שָׁלַל": [
+    "geminate"
+  ],
+  "רָעַם": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "רעע": [
+    "I-guttural",
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עָלַץ": [
+    "I-guttural"
+  ],
+  "תָּכַן": [
+    "strong"
+  ],
+  "אָזַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָמַל": [
+    "I-aleph"
+  ],
+  "שָׁפֵל": [
+    "strong"
+  ],
+  "חתת": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "צָלָה": [
+    "III-he"
+  ],
+  "אוה": [
+    "I-aleph",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אָדַב": [
+    "I-aleph"
+  ],
+  "סָפַח": [
+    "III-guttural"
+  ],
+  "בָּשַׂר": [
+    "III-guttural"
+  ],
+  "שָׂתַר": [
+    "III-guttural"
+  ],
+  "גָּעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָהָה": [
+    "I-nun",
+    "II-guttural",
+    "III-he",
+    "geminate",
+    "doubly-weak"
+  ],
+  "דָּאַג": [
+    "II-guttural"
+  ],
+  "רֹאֶה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גָּבַהּ": [
+    "III-he"
+  ],
+  "חָדַשׁ": [
+    "I-guttural"
+  ],
+  "שִׂיב": [
+    "hollow"
+  ],
+  "יָעַל": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "יאל": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "טָעַם": [
+    "II-guttural"
+  ],
+  "עִיט": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "ארב": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "קָשַׁב": [
+    "strong"
+  ],
+  "שָׁסַף": [
+    "strong"
+  ],
+  "בָּעַת": [
+    "II-guttural"
+  ],
+  "נָגַן": [
+    "I-nun"
+  ],
+  "רָוַח": [
+    "I-guttural",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "בָּרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אלה": [
+    "I-aleph",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עִין": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "טוּל": [
+    "hollow"
+  ],
+  "רוּשׁ": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "יָקַר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "פָּטַר": [
+    "III-guttural"
+  ],
+  "עָוָה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָחַץ": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "לוּט": [
+    "hollow"
+  ],
+  "תָּוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עָרֹם": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "עָטַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁתַן": [
+    "strong"
+  ],
+  "קִיץ": [
+    "hollow"
+  ],
+  "יָאַשׁ": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "מרר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "פָּגַר": [
+    "III-guttural"
+  ],
+  "עָדַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "קין": [
+    "hollow"
+  ],
+  "עָלַז": [
+    "I-guttural"
+  ],
+  "סוג": [
+    "hollow"
+  ],
+  "גדל": [
+    "strong"
+  ],
+  "בָּחוּר": [
+    "II-guttural"
+  ],
+  "כָּרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "ירה": [
+    "I-yod",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אָנַשׁ": [
+    "I-aleph"
+  ],
+  "לָחַשׁ": [
+    "II-guttural"
+  ],
+  "לִבֵּב": [
+    "geminate"
+  ],
+  "הַרְבָּה": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָגַר": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דחח": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "ישׁב": [
+    "I-yod"
+  ],
+  "חָפָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עָפַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָחַב": [
+    "II-guttural"
+  ],
+  "חָנַק": [
+    "I-guttural"
+  ],
+  "יצא": [
+    "I-yod",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "לוט": [
+    "hollow"
+  ],
+  "נשׂא": [
+    "I-nun",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "מָוֶת": [
+    "hollow"
+  ],
+  "יָגָה": [
+    "I-yod",
+    "III-he",
+    "doubly-weak"
+  ],
+  "תלא": [
+    "III-aleph"
+  ],
+  "פָּלַט": [
+    "strong"
+  ],
+  "אָפַף": [
+    "I-aleph"
+  ],
+  "גָּעַשׁ": [
+    "II-guttural"
+  ],
+  "חָסַד": [
+    "I-guttural"
+  ],
+  "בָּרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "תבר": [
+    "III-guttural"
+  ],
+  "תפל": [
+    "strong"
+  ],
+  "נָגַהּ": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "דָּלַג": [
+    "strong"
+  ],
+  "שָׁוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָחֵת": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "מָעַד": [
+    "II-guttural"
+  ],
+  "כלה": [
+    "III-he"
+  ],
+  "צָמַת": [
+    "strong"
+  ],
+  "נָטַל": [
+    "I-nun"
+  ],
+  "שָׂמֵחַ": [
+    "III-guttural"
+  ],
+  "הָמָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "מָרַץ": [
+    "II-guttural"
+  ],
+  "זנה": [
+    "III-he"
+  ],
+  "גָּזַר": [
+    "III-guttural"
+  ],
+  "אָבַס": [
+    "I-aleph"
+  ],
+  "אָטַם": [
+    "I-aleph"
+  ],
+  "פטר": [
+    "III-guttural"
+  ],
+  "חָקָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יצק": [
+    "I-yod"
+  ],
+  "פָּשַׁע": [
+    "III-guttural"
+  ],
+  "שָׁרַק": [
+    "II-guttural"
+  ],
+  "רָכַל": [
+    "I-guttural"
+  ],
+  "אַהֲבָה": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "בָּדָא": [
+    "III-aleph"
+  ],
+  "הָתַל": [
+    "I-guttural"
+  ],
+  "גָּהַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "קָדַר": [
+    "III-guttural"
+  ],
+  "שָׁנַס": [
+    "strong"
+  ],
+  "שָׂפַק": [
+    "strong"
+  ],
+  "חָלַט": [
+    "I-guttural"
+  ],
+  "חָבָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גָּלַם": [
+    "strong"
+  ],
+  "שׁכל": [
+    "strong"
+  ],
+  "קָלַס": [
+    "strong"
+  ],
+  "חָרַב": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "שָׁלָה": [
+    "III-he"
+  ],
+  "זָרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "שָׁפַת": [
+    "strong"
+  ],
+  "פָּלַח": [
+    "III-guttural"
+  ],
+  "קָצַב": [
+    "strong"
+  ],
+  "סָעַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָכָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָמַס": [
+    "I-guttural"
+  ],
+  "רָטַשׁ": [
+    "I-guttural"
+  ],
+  "סמם": [
+    "strong"
+  ],
+  "גָּדַר": [
+    "III-guttural"
+  ],
+  "חׇזְקָה": [
+    "I-guttural"
+  ],
+  "חָפָא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "הָבַל": [
+    "I-guttural"
+  ],
+  "בוז": [
+    "hollow"
+  ],
+  "לָעַג": [
+    "II-guttural"
+  ],
+  "קוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "גָּנַן": [
+    "strong"
+  ],
+  "אָצַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רצץ": [
+    "I-guttural"
+  ],
+  "גלה": [
+    "III-he"
+  ],
+  "יגב": [
+    "I-yod"
+  ],
+  "שׁנה": [
+    "III-he"
+  ],
+  "יֹוצֵר": [
+    "I-yod",
+    "hollow",
+    "doubly-weak"
+  ],
+  "יָחַשׂ": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "עדר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָצַח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָצַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כרבל": [
+    "II-guttural"
+  ],
+  "רָקַד": [
+    "I-guttural"
+  ],
+  "גִּיל": [
+    "hollow"
+  ],
+  "שָׁבַח": [
+    "III-guttural"
+  ],
+  "שׂוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּנַס": [
+    "strong"
+  ],
+  "זָנַח": [
+    "III-guttural"
+  ],
+  "זָקַק": [
+    "geminate"
+  ],
+  "דּוּחַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָלָא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "חֹזֶה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יסד": [
+    "I-yod"
+  ],
+  "דָּחַף": [
+    "II-guttural"
+  ],
+  "בָּדַק": [
+    "strong"
+  ],
+  "לָעַב": [
+    "II-guttural"
+  ],
+  "הַ": [
+    "I-guttural"
+  ],
+  "תִּרְגֵּם": [
+    "II-guttural"
+  ],
+  "צָהֵב": [
+    "II-guttural"
+  ],
+  "שָׁקַד": [
+    "strong"
+  ],
+  "רָעַד": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "זָמַן": [
+    "strong"
+  ],
+  "טָלַל": [
+    "geminate"
+  ],
+  "שָׁלַט": [
+    "strong"
+  ],
+  "ירא": [
+    "I-yod",
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "גּוּף": [
+    "hollow"
+  ],
+  "עָדַן": [
+    "I-guttural"
+  ],
+  "יסף": [
+    "I-yod"
+  ],
+  "לֵן": [
+    "strong"
+  ],
+  "אָנַס": [
+    "I-aleph"
+  ],
+  "פָּזַר": [
+    "III-guttural"
+  ],
+  "יָצַע": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָשַׁט": [
+    "I-yod"
+  ],
+  "זוּעַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּשֵׁר": [
+    "III-guttural"
+  ],
+  "צָהַל": [
+    "II-guttural"
+  ],
+  "יָהַד": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "סוּף": [
+    "hollow"
+  ],
+  "שׂוּךְ": [
+    "hollow"
+  ],
+  "גָּרַד": [
+    "II-guttural"
+  ],
+  "שָׁאַן": [
+    "II-guttural"
+  ],
+  "סכך": [
+    "strong"
+  ],
+  "נָתַע": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָמַר": [
+    "III-guttural"
+  ],
+  "דָּכָא": [
+    "III-aleph"
+  ],
+  "שָׁרַשׁ": [
+    "II-guttural"
+  ],
+  "שָׁאַף": [
+    "II-guttural"
+  ],
+  "עֹרֶם": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "לעע": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "נָהַק": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "בָּצַע": [
+    "III-guttural"
+  ],
+  "סָלַד": [
+    "strong"
+  ],
+  "זָרַב": [
+    "II-guttural"
+  ],
+  "דָּעַךְ": [
+    "II-guttural"
+  ],
+  "חָפֵר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁחַד": [
+    "II-guttural"
+  ],
+  "ראה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁחַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָוַת": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "שָׂגָה": [
+    "III-he"
+  ],
+  "יָקֹוט": [
+    "I-yod"
+  ],
+  "סָבַךְ": [
+    "strong"
+  ],
+  "פָּלַץ": [
+    "strong"
+  ],
+  "חָתַף": [
+    "I-guttural"
+  ],
+  "שָׁחַח": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עָקַשׁ": [
+    "I-guttural"
+  ],
+  "טוּשׂ": [
+    "hollow"
+  ],
+  "בָּלַג": [
+    "strong"
+  ],
+  "זָכַךְ": [
+    "strong"
+  ],
+  "קוט": [
+    "hollow"
+  ],
+  "רָאֶה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָבַל": [
+    "I-yod"
+  ],
+  "לָבַב": [
+    "geminate"
+  ],
+  "תְּעוּפָה": [
+    "II-guttural"
+  ],
+  "שָׂגָא": [
+    "III-aleph"
+  ],
+  "טָפַל": [
+    "strong"
+  ],
+  "קָטַל": [
+    "strong"
+  ],
+  "קוץ": [
+    "hollow"
+  ],
+  "תָּקֵף": [
+    "strong"
+  ],
+  "צָעַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָלַף": [
+    "I-aleph"
+  ],
+  "רָזַם": [
+    "I-guttural"
+  ],
+  "זָכָה": [
+    "III-he"
+  ],
+  "אָלַח": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָוָה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עָתֹד": [
+    "I-guttural"
+  ],
+  "רָעַן": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חָמַס": [
+    "I-guttural"
+  ],
+  "קָמַט": [
+    "strong"
+  ],
+  "חָרַק": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "פָּעַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "ירט": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "פָּצַץ": [
+    "strong"
+  ],
+  "דָּלַף": [
+    "strong"
+  ],
+  "זָעַךְ": [
+    "II-guttural"
+  ],
+  "מְשֹׁל": [
+    "strong"
+  ],
+  "רָפַד": [
+    "I-guttural"
+  ],
+  "טָמָה": [
+    "III-he"
+  ],
+  "הָכַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁוַע": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁזַף": [
+    "strong"
+  ],
+  "עָלַס": [
+    "I-guttural"
+  ],
+  "אֹכֶל": [
+    "I-aleph"
+  ],
+  "חִיל": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "תְּבוּאָה": [
+    "strong"
+  ],
+  "אחז": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "לָקַשׁ": [
+    "strong"
+  ],
+  "רָטֵב": [
+    "I-guttural"
+  ],
+  "צָהַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָאַק": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חָתַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מָכַךְ": [
+    "strong"
+  ],
+  "פַּרְשֵׁז": [
+    "II-guttural"
+  ],
+  "חוּג": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רָפַף": [
+    "I-guttural"
+  ],
+  "שׂפק": [
+    "strong"
+  ],
+  "עָדָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "סָלָה": [
+    "III-he"
+  ],
+  "עָרַק": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "לֶחֶם": [
+    "II-guttural"
+  ],
+  "נָכָא": [
+    "I-nun",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "נָתַס": [
+    "I-nun"
+  ],
+  "עָגַם": [
+    "I-guttural"
+  ],
+  "רָתַח": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָרַר": [
+    "I-guttural",
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עָנַד": [
+    "I-guttural"
+  ],
+  "כָּנָה": [
+    "III-he"
+  ],
+  "קָרַץ": [
+    "II-guttural"
+  ],
+  "זָהַם": [
+    "II-guttural"
+  ],
+  "שָׁפָה": [
+    "III-he"
+  ],
+  "פָּדַע": [
+    "III-guttural"
+  ],
+  "רֻטֲפַשׁ": [
+    "I-guttural"
+  ],
+  "כָּבַר": [
+    "III-guttural"
+  ],
+  "רָעַף": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "כבר": [
+    "III-guttural"
+  ],
+  "שׁרה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "הוה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "טָרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "פֹּעַל": [
+    "II-guttural"
+  ],
+  "תור": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׂדַד": [
+    "geminate"
+  ],
+  "קָשַׁח": [
+    "III-guttural"
+  ],
+  "מָרָא": [
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "רָנָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אָבַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָלַע": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "הָדַךְ": [
+    "I-guttural"
+  ],
+  "חָפַץ": [
+    "I-guttural"
+  ],
+  "שָׂרַג": [
+    "II-guttural"
+  ],
+  "דּוּץ": [
+    "hollow"
+  ],
+  "שָׁתַל": [
+    "strong"
+  ],
+  "רָגַשׁ": [
+    "I-guttural"
+  ],
+  "שָׂחָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עָשֵׁשׁ": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "גָּמַר": [
+    "III-guttural"
+  ],
+  "תנה": [
+    "III-he"
+  ],
+  "פּוּחַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דָּכָה": [
+    "III-he"
+  ],
+  "פָּסַס": [
+    "geminate"
+  ],
+  "שָׁפַר": [
+    "III-guttural"
+  ],
+  "פלא": [
+    "III-aleph"
+  ],
+  "רַב": [
+    "I-guttural"
+  ],
+  "חָרַג": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נָבַע": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דָּגַל": [
+    "strong"
+  ],
+  "גחה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שׁוב": [
+    "hollow"
+  ],
+  "חָשַׂף": [
+    "I-guttural"
+  ],
+  "גָּרַז": [
+    "II-guttural"
+  ],
+  "פַּלֵּט": [
+    "strong"
+  ],
+  "בָּלַם": [
+    "strong"
+  ],
+  "פּוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׁגַח": [
+    "III-guttural"
+  ],
+  "נָהַר": [
+    "I-nun",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "דָּחָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָוָה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׂטַן": [
+    "strong"
+  ],
+  "שׂוּט": [
+    "hollow"
+  ],
+  "עָרַג": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "דָּדָה": [
+    "III-he"
+  ],
+  "שׁיח": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "בּוּס": [
+    "hollow"
+  ],
+  "רָחַשׁ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "יָפָה": [
+    "I-yod",
+    "III-he",
+    "doubly-weak"
+  ],
+  "פָּסַג": [
+    "strong"
+  ],
+  "מות": [
+    "hollow"
+  ],
+  "שׁית": [
+    "hollow"
+  ],
+  "לָבֵן": [
+    "strong"
+  ],
+  "חָתָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עוז": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רוּד": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "סָעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שׁחת": [
+    "II-guttural"
+  ],
+  "כָּפַף": [
+    "strong"
+  ],
+  "פָּלַס": [
+    "strong"
+  ],
+  "זרה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "פָּצַם": [
+    "strong"
+  ],
+  "נסס": [
+    "I-nun",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עֲנָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "התת": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "נוּב": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "כָּמַהּ": [
+    "III-he"
+  ],
+  "נוד": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "שׁוּק": [
+    "hollow"
+  ],
+  "שָׁלַג": [
+    "strong"
+  ],
+  "רָצַד": [
+    "I-guttural"
+  ],
+  "תָּפַף": [
+    "strong"
+  ],
+  "רָפַס": [
+    "I-guttural"
+  ],
+  "בָּזַר": [
+    "III-guttural"
+  ],
+  "אָטַר": [
+    "I-aleph",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נוּשׁ": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "נְשָׁמָה": [
+    "I-nun"
+  ],
+  "עָוַל": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "חָמַץ": [
+    "I-guttural"
+  ],
+  "גָּזָה": [
+    "III-he"
+  ],
+  "נין": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "כלל": [
+    "geminate"
+  ],
+  "מוּק": [
+    "hollow"
+  ],
+  "הַר": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "נוּם": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "חנה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "זָרַם": [
+    "II-guttural"
+  ],
+  "נשׂק": [
+    "I-nun"
+  ],
+  "רון": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "אָרָה": [
+    "I-aleph",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "כִּרְסֵם": [
+    "II-guttural"
+  ],
+  "כָּסַח": [
+    "III-guttural"
+  ],
+  "סָפַף": [
+    "strong"
+  ],
+  "דּוּר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חול": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "דָּאֵב": [
+    "II-guttural"
+  ],
+  "פּוּן": [
+    "hollow"
+  ],
+  "בחר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָאַר": [
+    "I-nun",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מָגַר": [
+    "III-guttural"
+  ],
+  "שׁדד": [
+    "geminate"
+  ],
+  "עָמֹק": [
+    "I-guttural"
+  ],
+  "נָאָה": [
+    "I-nun",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁעַע": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "קוּט": [
+    "hollow"
+  ],
+  "פָּצַח": [
+    "III-guttural"
+  ],
+  "מָחָא": [
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "נוּט": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "לָשַׁן": [
+    "strong"
+  ],
+  "בָּדַד": [
+    "geminate"
+  ],
+  "מָסַךְ": [
+    "strong"
+  ],
+  "זָכוּר": [
+    "strong"
+  ],
+  "קִנֵּן": [
+    "strong"
+  ],
+  "עֵת": [
+    "I-guttural"
+  ],
+  "שֹׁוקֵק": [
+    "hollow"
+  ],
+  "שָׁתַק": [
+    "strong"
+  ],
+  "כָּאָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "בָּטוּחַ": [
+    "strong"
+  ],
+  "לָעַז": [
+    "II-guttural"
+  ],
+  "גָּרַס": [
+    "II-guttural"
+  ],
+  "תָּאַב": [
+    "II-guttural"
+  ],
+  "יטב": [
+    "I-yod"
+  ],
+  "טָפַשׁ": [
+    "strong"
+  ],
+  "מָלַץ": [
+    "strong"
+  ],
+  "יָאַב": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "עָמַל": [
+    "I-guttural"
+  ],
+  "עִמֵּר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רַנֵּן": [
+    "I-guttural"
+  ],
+  "רָהַב": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "אֹרַח": [
+    "I-aleph",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רֶבַע": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָלֵק": [
+    "strong"
+  ],
+  "פּוּק": [
+    "hollow"
+  ],
+  "מֵסַב": [
+    "strong"
+  ],
+  "בָּרַק": [
+    "II-guttural"
+  ],
+  "יֹוצֵאת": [
+    "I-yod",
+    "hollow",
+    "doubly-weak"
+  ],
+  "זָקַף": [
+    "strong"
+  ],
+  "נדח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "בּוּז": [
+    "hollow"
+  ],
+  "לוּז": [
+    "hollow"
+  ],
+  "שׁוּחַ": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָהַם": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "כָּוָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "רָבַד": [
+    "I-guttural"
+  ],
+  "רָקֵב": [
+    "I-guttural"
+  ],
+  "לָבַט": [
+    "strong"
+  ],
+  "שָׁחָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָרַךְ": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "פָּשַׂק": [
+    "strong"
+  ],
+  "שָׁפָל": [
+    "strong"
+  ],
+  "אָכַף": [
+    "I-aleph"
+  ],
+  "רגן": [
+    "I-guttural"
+  ],
+  "עָצָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "גָּלַע": [
+    "III-guttural"
+  ],
+  "לָהַם": [
+    "II-guttural"
+  ],
+  "טָרַד": [
+    "II-guttural"
+  ],
+  "כָּפָה": [
+    "III-he"
+  ],
+  "קָבַע": [
+    "III-guttural"
+  ],
+  "שָׁעַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "סָבָא": [
+    "III-aleph"
+  ],
+  "רָאמֹות": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "מָטֶה": [
+    "III-he"
+  ],
+  "רֹעָה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "מעד": [
+    "II-guttural"
+  ],
+  "רָפַשׂ": [
+    "I-guttural"
+  ],
+  "דלה": [
+    "III-he"
+  ],
+  "חלל": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "להה": [
+    "II-guttural",
+    "III-he",
+    "geminate",
+    "doubly-weak"
+  ],
+  "יַחַד": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "כָּתַשׁ": [
+    "strong"
+  ],
+  "סָחַף": [
+    "II-guttural"
+  ],
+  "שָׁקַק": [
+    "geminate"
+  ],
+  "ענה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "פָּנַק": [
+    "strong"
+  ],
+  "לָבוּשׁ": [
+    "strong"
+  ],
+  "תָּקַן": [
+    "strong"
+  ],
+  "דַּעַת": [
+    "II-guttural"
+  ],
+  "עָקַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָשׁוּקִים": [
+    "I-guttural"
+  ],
+  "עשׁק": [
+    "I-guttural"
+  ],
+  "קָרֹב": [
+    "II-guttural"
+  ],
+  "ברר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "קָהָה": [
+    "II-guttural",
+    "III-he",
+    "geminate",
+    "doubly-weak"
+  ],
+  "בָּטַל": [
+    "strong"
+  ],
+  "נצץ": [
+    "I-nun"
+  ],
+  "רָתַק": [
+    "I-guttural"
+  ],
+  "רוץ": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "נחר": [
+    "I-nun",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָצַף": [
+    "I-guttural"
+  ],
+  "גָּלַשׁ": [
+    "strong"
+  ],
+  "תָּאַם": [
+    "II-guttural"
+  ],
+  "טָנַף": [
+    "strong"
+  ],
+  "חָמַק": [
+    "I-guttural"
+  ],
+  "נָצַץ": [
+    "I-nun"
+  ],
+  "יָפֶה": [
+    "I-yod",
+    "III-he",
+    "doubly-weak"
+  ],
+  "דָּבַב": [
+    "geminate"
+  ],
+  "רָפַק": [
+    "I-guttural"
+  ],
+  "מָהַל": [
+    "II-guttural"
+  ],
+  "חֲפֹר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "שָׂקַר": [
+    "III-guttural"
+  ],
+  "טָפַף": [
+    "strong"
+  ],
+  "עָכַס": [
+    "I-guttural"
+  ],
+  "שִׂפַּח": [
+    "III-guttural"
+  ],
+  "עָזַק": [
+    "I-guttural"
+  ],
+  "עזב": [
+    "I-guttural"
+  ],
+  "נחה": [
+    "I-nun",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שְׁאָלָה": [
+    "II-guttural"
+  ],
+  "מָשׂוֹשׂ": [
+    "strong"
+  ],
+  "צָפַף": [
+    "strong"
+  ],
+  "סָאַן": [
+    "II-guttural"
+  ],
+  "סוך": [
+    "hollow"
+  ],
+  "אָבַךְ": [
+    "I-aleph"
+  ],
+  "עָתַם": [
+    "I-guttural"
+  ],
+  "שׁשׂה": [
+    "III-he"
+  ],
+  "נָסַס": [
+    "I-nun",
+    "geminate",
+    "doubly-weak"
+  ],
+  "סָעַף": [
+    "II-guttural"
+  ],
+  "הָדָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "פוץ": [
+    "hollow"
+  ],
+  "יָלַל": [
+    "I-yod",
+    "geminate",
+    "doubly-weak"
+  ],
+  "טֵאטֵא": [
+    "II-guttural"
+  ],
+  "יָרַע": [
+    "I-yod",
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "רָזָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שׂוּג": [
+    "hollow"
+  ],
+  "מרט": [
+    "II-guttural"
+  ],
+  "בָּזָא": [
+    "III-aleph"
+  ],
+  "תָּזַז": [
+    "geminate"
+  ],
+  "קיץ": [
+    "hollow"
+  ],
+  "בָּקַק": [
+    "geminate"
+  ],
+  "נשׁת": [
+    "I-nun"
+  ],
+  "יבשׁ": [
+    "I-yod"
+  ],
+  "קָמֵל": [
+    "strong"
+  ],
+  "יעץ": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חֲשׂוּפַי": [
+    "I-guttural"
+  ],
+  "בָּעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "קָרַר": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עָרַר": [
+    "I-guttural",
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "חָסַן": [
+    "I-guttural"
+  ],
+  "בָּלַק": [
+    "strong"
+  ],
+  "חרה": [
+    "I-guttural",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "לוֹט": [
+    "hollow"
+  ],
+  "פָּשַׂע": [
+    "III-guttural"
+  ],
+  "צוּת": [
+    "hollow"
+  ],
+  "סֵאסֵא": [
+    "II-guttural"
+  ],
+  "יָעָה": [
+    "I-yod",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "סָמַן": [
+    "strong"
+  ],
+  "אָדַשׁ": [
+    "I-aleph"
+  ],
+  "צֹבֶה": [
+    "III-he"
+  ],
+  "עָצַם": [
+    "I-guttural"
+  ],
+  "יִרְאָה": [
+    "I-yod",
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "קוּשׁ": [
+    "hollow"
+  ],
+  "חָוַר": [
+    "I-guttural",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "זעק": [
+    "II-guttural"
+  ],
+  "כָּנַף": [
+    "strong"
+  ],
+  "ימן": [
+    "I-yod"
+  ],
+  "צֵא": [
+    "II-guttural"
+  ],
+  "בָּרַד": [
+    "II-guttural"
+  ],
+  "נָלָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָעַז": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "צָעַן": [
+    "II-guttural"
+  ],
+  "דָּגַר": [
+    "III-guttural"
+  ],
+  "קָפַד": [
+    "strong"
+  ],
+  "מַר": [
+    "II-guttural"
+  ],
+  "מָרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מָתַח": [
+    "III-guttural"
+  ],
+  "יָעֵף": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "קֹוי": [
+    "strong"
+  ],
+  "נָשַׁת": [
+    "I-nun"
+  ],
+  "צָוַח": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צָרַח": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "פָּעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "נָשַׁם": [
+    "I-nun"
+  ],
+  "פָּחַח": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "סָגַד": [
+    "strong"
+  ],
+  "טָחַח": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "שׂכל": [
+    "strong"
+  ],
+  "קָרַס": [
+    "II-guttural"
+  ],
+  "נְשׂוּאָה": [
+    "I-nun"
+  ],
+  "זוּל": [
+    "hollow"
+  ],
+  "אשׁשׁ": [
+    "I-aleph",
+    "geminate",
+    "doubly-weak"
+  ],
+  "שַׁחַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "הָבַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "חָטַם": [
+    "I-guttural"
+  ],
+  "טָפַח": [
+    "III-guttural"
+  ],
+  "בָּזֹה": [
+    "III-he"
+  ],
+  "עוּת": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "צָעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "מַשְׁחִית": [
+    "III-guttural"
+  ],
+  "נָבַח": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "הָזָה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "זור": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "גָּשַׁשׁ": [
+    "geminate"
+  ],
+  "ציר": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָמַר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "יָעַט": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "חָמוּץ": [
+    "I-guttural"
+  ],
+  "בלל": [
+    "geminate"
+  ],
+  "נָדָה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "מָצַץ": [
+    "strong"
+  ],
+  "ימר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּתַם": [
+    "strong"
+  ],
+  "שָׂרַךְ": [
+    "II-guttural"
+  ],
+  "נִיר": [
+    "I-nun",
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָגַב": [
+    "I-guttural"
+  ],
+  "יָפַח": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עִיף": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "יזן": [
+    "I-yod"
+  ],
+  "שָׁכָה": [
+    "III-he"
+  ],
+  "רָשַׁשׁ": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עָשַׁת": [
+    "I-guttural"
+  ],
+  "פָּלַשׁ": [
+    "strong"
+  ],
+  "סַר": [
+    "II-guttural"
+  ],
+  "תָּם": [
+    "strong"
+  ],
+  "שֹׁובֵב": [
+    "hollow"
+  ],
+  "אסף": [
+    "I-aleph"
+  ],
+  "שֶׁבֶת": [
+    "strong"
+  ],
+  "נצה": [
+    "I-nun",
+    "III-he",
+    "doubly-weak"
+  ],
+  "יָאָה": [
+    "I-yod",
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "כָּסַל": [
+    "strong"
+  ],
+  "מֵאֵן": [
+    "II-guttural"
+  ],
+  "דָּמַע": [
+    "III-guttural"
+  ],
+  "דָּהַם": [
+    "II-guttural"
+  ],
+  "גָּשַׁם": [
+    "strong"
+  ],
+  "שָׁרָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "דִּיג": [
+    "hollow"
+  ],
+  "דָּחַח": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "נָאַם": [
+    "I-nun",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "קָיָה": [
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "שָׁאַס": [
+    "II-guttural"
+  ],
+  "גור": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָצָא": [
+    "I-nun",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "פּוּשׁ": [
+    "hollow"
+  ],
+  "דושׁ": [
+    "hollow"
+  ],
+  "רפה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "אָנַק": [
+    "I-aleph"
+  ],
+  "יָגַב": [
+    "I-yod"
+  ],
+  "שָׂקַד": [
+    "strong"
+  ],
+  "עוּב": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "שָׂתַם": [
+    "strong"
+  ],
+  "פָּשַׁח": [
+    "III-guttural"
+  ],
+  "כָּפַשׁ": [
+    "strong"
+  ],
+  "שׁחח": [
+    "II-guttural",
+    "III-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עָמַם": [
+    "I-guttural"
+  ],
+  "שָׁנָא": [
+    "III-aleph"
+  ],
+  "סלה": [
+    "III-he"
+  ],
+  "צחה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "צָפַד": [
+    "strong"
+  ],
+  "בָּרוּת": [
+    "II-guttural"
+  ],
+  "נוץ": [
+    "I-nun",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רָצָא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "עוּג": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "קנא": [
+    "III-aleph"
+  ],
+  "לְבוּשׁ": [
+    "strong"
+  ],
+  "טָעָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "חָתַל": [
+    "I-guttural"
+  ],
+  "אֲמֻלָה": [
+    "I-aleph"
+  ],
+  "בָּתַק": [
+    "strong"
+  ],
+  "כָּפַן": [
+    "strong"
+  ],
+  "קָסַס": [
+    "geminate"
+  ],
+  "מַשְׂאֵת": [
+    "III-aleph"
+  ],
+  "צָרַב": [
+    "II-guttural"
+  ],
+  "חָדַד": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "חָדַר": [
+    "I-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "אָחַד": [
+    "I-aleph",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "כול": [
+    "hollow"
+  ],
+  "נקע": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "נָקַע": [
+    "I-nun",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "כָּחַל": [
+    "II-guttural"
+  ],
+  "סָחָה": [
+    "II-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "כָּלַל": [
+    "geminate"
+  ],
+  "רַאֲוָה": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "דָּלַח": [
+    "III-guttural"
+  ],
+  "רפס": [
+    "I-guttural"
+  ],
+  "עפף": [
+    "I-guttural"
+  ],
+  "שַׁמָּה": [
+    "III-he"
+  ],
+  "קָרַם": [
+    "II-guttural"
+  ],
+  "שִׁשֵּׁא": [
+    "III-aleph"
+  ],
+  "קָצוּר": [
+    "strong"
+  ],
+  "מִן": [
+    "strong"
+  ],
+  "כָּסַם": [
+    "strong"
+  ],
+  "שִׁשָּׁה": [
+    "III-he"
+  ],
+  "רָסַס": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ],
+  "פָּכָה": [
+    "III-he"
+  ],
+  "חוּב": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "שׁמם": [
+    "strong"
+  ],
+  "חָתַךְ": [
+    "I-guttural"
+  ],
+  "רָשַׁם": [
+    "I-guttural"
+  ],
+  "רֻחָמָה": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "יהב": [
+    "I-yod",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "גָּהָה": [
+    "II-guttural",
+    "III-he",
+    "geminate",
+    "doubly-weak"
+  ],
+  "ליץ": [
+    "hollow"
+  ],
+  "שׂור": [
+    "hollow",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "צָמַק": [
+    "strong"
+  ],
+  "רגל": [
+    "I-guttural"
+  ],
+  "פָּרָא": [
+    "II-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "עָבַשׁ": [
+    "I-guttural"
+  ],
+  "יָדַד": [
+    "I-yod",
+    "geminate",
+    "doubly-weak"
+  ],
+  "עוּשׁ": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "רדה": [
+    "I-guttural",
+    "III-he",
+    "doubly-weak"
+  ],
+  "עוּק": [
+    "I-guttural",
+    "hollow",
+    "doubly-weak"
+  ],
+  "בָּשַׁס": [
+    "strong"
+  ],
+  "פָּרַט": [
+    "II-guttural"
+  ],
+  "סָרַף": [
+    "II-guttural"
+  ],
+  "בָּלַס": [
+    "strong"
+  ],
+  "זַעַף": [
+    "II-guttural"
+  ],
+  "רָתַם": [
+    "I-guttural"
+  ],
+  "היה": [
+    "I-guttural",
+    "hollow",
+    "III-he",
+    "doubly-weak"
+  ],
+  "טמא": [
+    "III-aleph"
+  ],
+  "הָלָא": [
+    "I-guttural",
+    "III-aleph",
+    "doubly-weak"
+  ],
+  "צָנַע": [
+    "III-guttural"
+  ],
+  "עָבַת": [
+    "I-guttural"
+  ],
+  "תָּלַע": [
+    "III-guttural"
+  ],
+  "רָעַל": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "דָּהַר": [
+    "II-guttural",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "עָקַל": [
+    "I-guttural"
+  ],
+  "יקץ": [
+    "I-yod"
+  ],
+  "יֵצֶר": [
+    "I-yod",
+    "III-guttural",
+    "doubly-weak"
+  ],
+  "מדד": [
+    "geminate"
+  ],
+  "פצץ": [
+    "strong"
+  ],
+  "פּוּצַי": [
+    "hollow"
+  ],
+  "בָּחֵל": [
+    "II-guttural"
+  ],
+  "רָאַם": [
+    "I-guttural",
+    "II-guttural",
+    "doubly-weak"
+  ],
+  "קטר": [
+    "III-guttural"
+  ],
+  "עָסַס": [
+    "I-guttural",
+    "geminate",
+    "doubly-weak"
+  ]
+}

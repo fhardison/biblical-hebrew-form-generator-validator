@@ -1,0 +1,131 @@
+!
+! 08_particles.xfst - Article and Preposition Fusion
+! Particle + particle combinations
+!
+! References: Joüon-Muraoka §11, GKC §§12-13
+!
+
+!
+! ============================================================
+! DEFINITE ARTICLE + PREPOSITIONS
+! ============================================================
+
+!
+! ב + ה → בַ (patach)
+define Beth_Article
+  b:0 -> b:a || _ h:a .
+  
+! כ + ה → כַ
+define Kaph_Article
+  k:0 -> k:a || _ h:a .
+  
+! ל + ה → לַ  
+define Lamed_Article
+  l:0 -> l:a || _ h:a .
+
+!
+! ==================================================================
+! CONJUNCTION + ARTICLE / PREPOSITIONS
+! ==================================================================
+
+!
+! ו + ה → וַ (rare)
+define Vav_Article
+  w:0 -> w:a || _ h:a .
+
+!
+! ==================================================================
+! CONJUNCTION + CONSONANT
+! ==================================================================
+
+!
+! ו + ו → וּ (dagesh)
+define Vav_Vav
+  w:w -> wu || w _ w .
+
+!
+! ו + ב → וּב (with dagesh)
+define Vav_Beth
+  w:b -> wb || w _ b .
+
+!
+! ו + כ → וּכ  
+define Vav_Kaph
+  w:k -> wk || w _ k .
+
+!
+! ו + ל → וּל
+define Vav_Lamed
+  w:l -> wl || w _ l .
+
+!
+! ==================================================================
+! RELATIVE PARTICLE + NOUN
+! ==================================================================
+
+!
+! שֶה + noun → שֶׁ
+define Relative_Fusion
+  š:e h:0 -> š:e || š _ .
+
+!
+! ==================================================================
+! INTERROGATIVE ה WITH NOUN
+! ==================================================================
+
+!
+! ה interrogative before noun
+define Interrogative_Fusion
+  h:a -> h:0 || _ # .
+
+!
+! ==================================================================
+! PREPOSITION + DEFINITE ARTICLE FUSION
+! ==================================================================
+
+define Article_Elision
+  h:a -> 0 || [ b | k | l | m | š ] _ .
+
+!
+! ==================================================================
+! MEM PREPOSITION VARIANTS
+! ==================================================================
+
+!
+! מן variations
+define Mem_Fusion
+  m:n -> m || _ # .        ! מן at end
+  m:0 -> m:a || _ h:a .   ! מ + article
+
+!
+! ==================================================================
+! COMPOSE PARTICLE RULES
+! ==================================================================
+
+define ParticleRules
+  Beth_Article
+  .o.
+  Kaph_Article
+  .o.
+  Lamed_Article
+  .o.
+  Vav_Article
+  .o.
+  Vav_Vav
+  .o.
+  Vav_Beth
+  .o.
+  Vav_Kaph
+  .o.
+  Vav_Lamed
+  .o.
+  Relative_Fusion
+  .o.
+  Interrogative_Fusion
+  .o.
+  Article_Elision
+  .o.
+  Mem_Fusion
+;
+
+regex ParticleRules;

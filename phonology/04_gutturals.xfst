@@ -1,0 +1,102 @@
+!
+! 04_gutturals.xfst - Guttural Rules
+! Rules for א, ה, ח, ע, ר
+!
+! References: Joüon-Muraoka §§26-28, GKC §§33-35
+!
+
+!
+! ============================================================
+! DEFINITIONS
+! ============================================================
+
+define Guttural     [ 3 | h | h | r ] .
+define GutturalCons [ א | ה | ח | ע | ר ] .
+define He         h .
+define Aleph       3 .
+
+!
+! ============================================================
+! Guttural rejects dagesh
+! Gutturals cannot take dagesh forte
+! → compensatory lengthening or virtual doubling
+! ============================================================
+
+define Guttural_No_Dagesh
+  d:א -> 0 || GutturalCons _ .
+  d:ה -> 0 || GutturalCons _ .
+  d:ח -> 0 || GutturalCons _ .
+  d:ע -> 0 || GutturalCons _ .
+  d:ר -> 0 || GutturalCons _ .
+
+!
+! ============================================================
+! Guttural preference for a-vowels
+! Gutturals prefer patach/qamets over other vowels
+! ============================================================
+
+define Guttural_Prefer_A
+  [ e | i ] -> a || _ Guttural .
+  [ e | i ] -> a || GutturalCons _ .
+  
+  o -> a || _ Guttural .
+  o -> a || GutturalCons _ .
+
+!
+! Composite shewa for gutturals
+! Gutturals can't take vocal shewa
+! → hateph-patach/segol/qamets instead
+! ============================================================
+
+define Guttural_Composite_Shewa
+  0:ב || GutturalCons _ .     ! hateph-patach
+  0:ג || GutturalCons _ .     ! hateph-segol
+  0:כ || GutturalCons _ .     ! hateph-qamets
+
+!
+! Guttural at end of word
+! Final he takes mappiq (consonantal value)
+! ============================================================
+
+define He_Final
+  0:h || _ # .
+  
+! ==================================================================
+! He with article (הַ) vs locative (ה)
+! ==================================================================
+
+define He_Article
+  h:a -> h:a || _ # .
+  h:0 -> h:0 || i _ # .
+
+!
+! ============================================================
+! Aleph handling
+! Aleph is silent with various realizations
+! ============================================================
+
+define Aleph_Vowel
+  3 -> 0 || Vowel _ Vowel .
+  3 -> ʔ || Consonant _ .
+  3 -> 0 || # _ .
+
+!
+! ============================================================
+! Compose guttural rules
+! ============================================================
+
+define GutturalRules
+  Guttural_No_Dagesh
+  .o.
+  Guttural_Prefer_A
+  .o.
+  Guttural_Composite_Shewa
+  .o.
+  He_Final
+  .o.
+  He_Article
+  .o.
+  Aleph_Vowel
+;
+
+regex GutturalRules;

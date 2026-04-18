@@ -1,0 +1,42 @@
+!
+! hebrew-main.lexc - Main Hebrew FST Composition
+! This is the entry point that composes all lexicons together
+!
+
+MULTICHAR-SYMBOLS
++I
++II
++III
++V1
++V2
++V3
+%p%
+%<perf%>
+%<impf%>
+%<impv%>
+%<inf-c%>
+%<inf-a%>
+%<ptcp%>
+%<qatal%>
+%<yiqtol%>
+%<way%>
+%<weq%>
+%<juss%>
+%<coh%>
+%<art%>
+%<conj%>
+%<b%>
+%<k%>
+%<l%>
+
+LEXICON Root
+
+! Entry points for verbs and nouns
+VERB   stems ;
+NOUN   nouns ;
+
+! Continue to stems lexicon for verb conjugation
+stems  stems.lexc ;
+
+! Continue to affixes lexicon for suffixes
+nouns  nouns.lexc ;
