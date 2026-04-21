@@ -75,16 +75,49 @@ class HebrewFST:
         if not self._conn:
             self._conn = sqlite3.connect(self.db_path)
 
+        norm_surface = self._normalize(surface)
+
+        # Try surface_norm column first (present in DBs built after the schema update)
+        has_norm_col = any(
+            row[1] == "surface_norm"
+            for row in self._conn.execute("PRAGMA table_info(forms)").fetchall()
+        )
+        if has_norm_col:
+            cursor = self._conn.execute(
+                """
+                SELECT surface, lemma, stem, cell_id, vtype, person, gender, number, state, pron_suffix, refs
+                FROM forms WHERE surface_norm = ? LIMIT 100
+                """,
+                (norm_surface,),
+            )
+            return self._rows_to_analyses(cursor)
+
+        # Fallback: direct match, then normalized match via consonant-filtered scan
         cursor = self._conn.execute(
             """
             SELECT surface, lemma, stem, cell_id, vtype, person, gender, number, state, pron_suffix, refs
             FROM forms WHERE surface = ? LIMIT 100
-        """,
+            """,
             (surface,),
         )
+        rows = cursor.fetchall()
+
+        if not rows:
+            # DB may store cantillation marks; filter candidates by consonant pattern
+            consonants = "".join(c for c in surface if 0x05D0 <= ord(c) <= 0x05EA)
+            if consonants:
+                pattern = "%" + "%".join(consonants) + "%"
+                cursor = self._conn.execute(
+                    """
+                    SELECT surface, lemma, stem, cell_id, vtype, person, gender, number, state, pron_suffix, refs
+                    FROM forms WHERE surface LIKE ? LIMIT 500
+                    """,
+                    (pattern,),
+                )
+                rows = [r for r in cursor.fetchall() if self._normalize(r[0]) == norm_surface]
 
         analyses = []
-        for row in cursor.fetchall():
+        for row in rows:
             refs = row[10].split("|") if row[10] else []
             analyses.append(
                 Analysis(
